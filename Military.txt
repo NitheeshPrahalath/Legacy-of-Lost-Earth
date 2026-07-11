@@ -1,0 +1,62 @@
+**DEPARTMENT OF STRATEGIC FORESIGHT AND GLOBAL INFRASTRUCTURE**
+**CLASSIFIED DOSSIER — TACTICAL ORGANIZATION (REVISION ALPHA)**
+**YEAR:** 2120 | **CLEARANCE:** LEVEL OMEGA
+
+**STATUS:** PARAMETERS UPDATED.
+*Corrections Applied: The global monolith model has been fractured into competing Sovereign Nations. Expendable tiers have been scrubbed; the military is a highly professional, technologically augmented force. The operational focus has been redirected to traditional national defense, power projection, and border sovereignty.*
+
+Below is the updated organizational structure and rank hierarchy for a standard First-World Sovereign Nation in 2120.
+
+---
+
+## I. THE FIVE BRANCHES OF NATIONAL DEFENSE
+
+The branches retain their structural designations but operate with strict nationalistic objectives, defending borders and projecting power against rival superpowers.
+
+1. **Territorial Pacification Vanguard (TPV):**
+* *Role:* The National Army and Mechanized Infantry. They are responsible for border defense, ground invasions, and holding contested territory. The TPV utilizes heavy mag-lev armor, autonomous quadruped weapon platforms, and highly trained infantry equipped with exoskeleton combat suits.
+
+
+2. **Hydro-Resource Armada (HRA):**
+* *Role:* The National Navy. Their mandate is to secure vital international shipping lanes, control the oceans, and project power via massive carrier strike groups. They operate desalinization dreadnoughts, stealth submersibles, and mobile offshore command fortresses.
+
+
+3. **Atmospheric Supremacy Command (ASC):**
+* *Role:* The National Air Force. Responsible for strategic bombing, close air support, and maintaining absolute air superiority over national airspace. They operate the **Kestrel-V Apex**, hypersonic interceptors, and high-altitude drone swarms.
+
+
+4. **Orbital Strike & Logistics (OSL):**
+* *Role:* The National Space Force. They control the nation’s satellite grid, maintain GPS/quantum-communications, and defend against ICBMs. They project power through orbital kinetic platforms and secure national mining interests on the Moon (Helium-3 reserves).
+
+
+5. **The Verdant Guard:**
+* *Role:* Elite Special Operations & State Security (Tier 1). Moving away from agricultural policing, they are now the nation's premier covert operations branch. They handle deep-infiltration, sabotage of enemy arcologies, counter-terrorism, and personal protection of the nation's Class 1 leadership.
+
+
+
+---
+
+## II. THE COMMISSIONED OFFICER HIERARCHY
+
+The command structure is a modernized evolution of traditional military ranks. To command in 2120 requires advanced neural-processing cybernetics and a mastery of multi-domain warfare.
+
+*(Note: The Enlisted/NCO tiers—comprising professional Troopers, Sergeants, and Warrant-Techs—form the backbone of the force, but strategic command begins at the Commissioned tier below).*
+
+### Junior Command (Company / Squadron Level)
+
+* **01. Sub-Prime (Equivalent: Lieutenant / Ensign):** Fresh graduates from the national military academies. They lead infantry platoons or serve as junior bridge officers on HRA vessels. They rely heavily on AI tactical overlays to manage their units.
+* **02. Captain-Prime (Equivalent: Captain / Lieutenant):** Company commanders and ASC flight leaders. They have proven their ability to handle live combat without being overwhelmed by the massive influx of battlefield sensor data.
+
+### Field Command (Battalion / Regiment / Ship Level)
+
+* **03. Major-Tactical (Equivalent: Major / Lt. Commander):** Battalion executive officers and tactical planners. They often operate from mobile command hubs, coordinating drone strikes, artillery, and infantry movements in real-time.
+* **04. Commander-Regent (Equivalent: Lt. Colonel / Commander):** Squadron commanders and leaders of armored battalions. In the HRA, they command nimble stealth destroyers or submarine hunter-killers.
+* **05. Colonel-Logis (Equivalent: Colonel / Captain):** Regiment commanders and captains of capital ships (Cruisers/Carriers). A Colonel-Logis manages not just combat, but the complex energy grids, hydrogen-cell supply chains, and maintenance schedules of a massive fighting force.
+
+### Strategic Command (Flag Officers / General Staff)
+
+* **06. Brigadier-Matrix (Equivalent: Brigadier General / Commodore - 1 Star):** Commanders of entire brigades or orbital logistics stations. The "Matrix" designation indicates they now have direct access to the nation's strategic AI defense grid.
+* **07. Sector-General / Sector-Admiral (Equivalent: Major General / Rear Admiral - 2 Star):** Division commanders or Carrier Strike Group commanders. They are responsible for an entire theater sector (e.g., defending a 500-mile stretch of the national border or a specific ocean quadrant).
+* **08. Theater-General / Theater-Admiral (Equivalent: Lt. General / Vice Admiral - 3 Star):** Corps commanders. They command massive geographical zones and coordinate joint operations across the TPV, HRA, and ASC.
+* **09. High General / High Admiral (Equivalent: General / Admiral - 4 Star):** The Chiefs of Staff for their respective branches. They operate from the nation's fortified capital, advising the civilian/corporate leadership on global warfare strategy.
+* **10. Grand Marshal of the State (Equivalent: Field Marshal / 5-Star):** The absolute highest wartime rank. Appointed only during global conflicts, this individual holds supreme command over all five military branches of the nation, outranking everyone except the Head of State.
