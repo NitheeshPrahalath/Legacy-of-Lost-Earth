@@ -1,0 +1,94 @@
+**DEPARTMENT OF STRATEGIC FORESIGHT AND GLOBAL INFRASTRUCTURE**
+**CLASSIFIED DOSSIER — PERSONAL & TACTICAL ARMAMENT CATALOG**
+**YEAR:** 2120 | **CLEARANCE:** LEVEL OMEGA
+
+**SUBJECT:** Civilian, Corporate, Law Enforcement, and Sovereign Defense Directorate Weapons Systems
+
+**EXECUTIVE SUMMARY:**
+Firearms in the traditional sense (chemical propellant, gunpowder-based) were phased out of civilian and most military use by the 2080s, rendered obsolete by energy-cell miniaturization and the Weapon Grade material system (see Master Lore Registry, Section 5a). Post-Awakening, the collapse of manufacturing and supply chains has forced survivors back toward improvised and salvaged weaponry, while Sovereign Defense Directorate stockpiles remain the last reliable source of standardized, mass-produced arms. Weapon access is gated by the same caste and clearance structures that govern vehicles and food.
+
+---
+
+## 1. IMPROVISED / SCAVENGED CLASS (Post-Awakening Civilian)
+
+### The Makeshift Spear
+* **Status:** In-story canon (Kael Ardyn's primary weapon)
+* **Construction:** Salvaged alloys, structural wiring, and scavenged plating, etched with tactical markings and assembled with IRIS-guided modeling.
+* **Materials Tier:** Weapon Grade 1 — crude, no monster core or bone integration yet.
+* **Notes:** Effective at range and against sub-10★ mutated wildlife when wielded with proper technique (thrusts, not blade-style precision cuts). Represents the most common weapon archetype for post-collapse survivors: functional, unranked, built from whatever the ruins provide.
+
+### Crude Bone/Alloy Blades
+* **Status:** In-story canon (background — "rusted knives, pipes, a rifle snapped in half" found among the dead)
+* **Construction:** Salvaged kitchenware, factory tools, or monster bone shards lashed to makeshift handles.
+* **Materials Tier:** Weapon Grade 1.
+* **Notes:** The default sidearm of unaffiliated survivors. Reliability varies wildly; most degrade or shatter within weeks of heavy use.
+
+### Legacy Firearms (Pre-Collapse Relics)
+* **Status:** Background addition
+* **Description:** Rare chemical-propellant rifles and pistols predating the energy-cell transition, occasionally found in old military caches or private collections. Largely ineffective against Viraya-mutated creatures — conventional ballistics struggle to penetrate hardened mutated hide once a creature crosses ~5★, and ammunition is effectively unrenewable in the current era.
+* **Notes:** Narratively useful as a "false hope" weapon — survivors who rely on them learn quickly that pre-Awakening firepower doesn't scale to the new world, reinforcing the nuclear-weapon futility theme already established in your lore.
+
+---
+
+## 2. STANDARD-ISSUE CIVILIAN & RETIRED-PERSONNEL CLASS
+
+### Pulse Gun
+* **Status:** In-story canon (used by Maya, and referenced by Tanaka: "these weapons won't last, energy cells are nearly depleted")
+* **Classification:** Compact energy sidearm.
+* **Power Source:** Rechargeable capacitor cell — depletes with sustained use and cannot be recharged without grid access, making it a diminishing resource in the post-Awakening world.
+* **Performance:** Effective short-range deterrent against low-tier mutated wildlife; requires precise aim, as it lacks the raw stopping power of Weapon Grade 3+ armaments.
+* **Notes:** Distributed to civilian security details and retired Sovereign Defense Directorate personnel prior to the Awakening. Now one of the most fought-over pieces of functioning tech in the ruins.
+
+### Electric Baton (Stun Baton)
+* **Status:** In-story canon (Nakamura's sidearm)
+* **Classification:** Close-quarters non-lethal-to-lethal melee weapon.
+* **Power Source:** Small internal energy cell, rechargeable via kinetic movement (swing-charge).
+* **Performance:** Delivers a disabling electric shock on contact; can be lethal against unarmored humans, but is more commonly used to stagger or disorient low-tier mutated wildlife before a follow-up strike.
+* **Notes:** Standard-issue for retired/reserve Sovereign Defense Directorate personnel and corporate security. Durable and low-maintenance compared to pulse-based weapons, which is likely why it's still functional a month post-Awakening.
+
+---
+
+## 3. SOVEREIGN DEFENSE DIRECTORATE — STANDARD ARMAMENT (TPV / HRA / ASC)
+
+### TPV Infantry Sidearm — "Halberd-Pattern" Pulse Rifle
+* **Purpose:** Standard infantry-issue energy rifle for TPV ground troops.
+* **Materials Tier:** Weapon Grade 3–4 (10★–20★ core integration).
+* **Description:** Modular pulse-discharge rifle with swappable capacitor cells and an AI-assisted targeting overlay synced to a soldier's neural-tactical implant. Effective against low-to-mid-tier mutated wildlife but requires squad-level coordination against anything above 10★.
+* **Government Control:** DNA-locked to authorized TPV personnel; unauthorized use triggers a remote lockout.
+
+### HRA Marine Boarding Cutlass
+* **Purpose:** Close-quarters weapon for naval boarding actions and shipboard combat, where energy-weapon discharge risks hull integrity.
+* **Materials Tier:** Weapon Grade 3 — monster-bone-edged alloy blade.
+* **Description:** A short, reinforced blade paired with an insulated hilt-mounted stun coil for a non-discharge secondary strike option.
+
+### ASC Sidearm — Compact Ion Pistol
+* **Purpose:** Sidearm for pilots and air-crew; compact enough for cockpit storage.
+* **Materials Tier:** Weapon Grade 2–3.
+* **Description:** Low-recoil ion-discharge pistol prioritizing weight and compactness over stopping power — intended for emergency self-defense after ejection or crash-landing, not sustained combat.
+
+---
+
+## 4. VERDANT GUARD — SPECIAL OPERATIONS CLASS (Restricted / Tier 1)
+
+### "Wraithblade" Adaptive Combat Knife
+* **Purpose:** Signature Verdant Guard sidearm for infiltration and silent elimination.
+* **Materials Tier:** Weapon Grade 5–6 (40★–60★ core, monster bone, soul-bound edge).
+* **Description:** A shape-adaptive blade that reconfigures edge geometry (serrated, straight, hooked) via internal nano-actuators depending on mission parameters. Near-silent in use; thermal-dampened to defeat standard heat-signature detection.
+* **Government Control:** Bio-locked to individual operative genetic signature. Self-destructs (thermite core) if tampered with by an unauthorized user.
+
+### "Requiem" Directed-Energy Marksman Rifle
+* **Purpose:** Long-range elimination and area denial for Verdant Guard snipers.
+* **Materials Tier:** Weapon Grade 6–7 (60★–80★ core + soul-bound focusing crystal).
+* **Description:** Fires a coherent plasma-lance round capable of punching through military-grade armor plating and low-tier mutated hide alike. Extreme rarity — fewer than a few hundred units exist per Sovereign Nation.
+
+---
+
+## 5. THE 27 ANCIENT BEASTS — WEAPON MATERIAL INTERACTION
+
+*Cross-reference: Master Lore Registry, Section 5a (Weapon Grades) and Section 4 (The 27 Ancient Beasts).*
+
+Weapon Grades 6 and above require monster cores harvested from beasts at or above 60★ — meaning, in the current story timeline, only material from the 27 Ancient Beasts themselves (or their sub-100★ mutated wildlife, for lower grades) can advance human weapon technology beyond Grade 5. This is why no human-forged weapon above Grade 5 currently exists in the story: no one has yet killed, or survived encountering, an Ancient Beast. This remains a hard narrative gate you can use to pace future power progression — Kael acquiring even a fragment of Ancient Beast material would be a major turning point.
+
+---
+
+*Legacy of the Lost Earth — Weapons Dossier | Companion reference to the Master Lore Registry | Confidential Author Document*

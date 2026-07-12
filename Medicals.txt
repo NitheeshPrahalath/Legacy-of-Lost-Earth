@@ -1,0 +1,104 @@
+**DEPARTMENT OF STRATEGIC FORESIGHT AND GLOBAL INFRASTRUCTURE**
+**CLASSIFIED DOSSIER — MEDICAL SYSTEMS & TRAUMA CARE CATALOG**
+**YEAR:** 2120 | **CLEARANCE:** LEVEL OMEGA
+
+**SUBJECT:** Civilian, Corporate, and Sovereign Defense Directorate Medical Technology
+
+**EXECUTIVE SUMMARY:**
+Post-Awakening medicine faces a dual crisis: the loss of centralized hospital infrastructure, and human physiology itself becoming a moving target as Viraya exposure triggers ongoing mutation. Standard pre-Awakening treatments are frequently insufficient or actively dangerous when applied to a mutating patient — a recurring tension you can use narratively (a "safe" pre-Awakening dose or procedure now causing unpredictable side effects). Like food and transit, access to real (rather than purely synthetic/nanite-based) medical care tracks the Class 1–4 caste system.
+
+---
+
+## 1. FIELD-LEVEL DEVICES (Civilian / Salvaged / Post-Awakening)
+
+### Compact Medical Kit
+* **Status:** In-story canon (Maya's device)
+* **Description:** A folding diagnostic-and-treatment unit that unfolds with a soft click and projects a faint blue diagnostic grid over the user's hands, guiding treatment in real time.
+* **Function:** Rapid triage — reads vitals, flags internal bleeding or organ trauma, and overlays AR guidance for field treatment (suturing points, pressure application, injection sites).
+* **Power Source:** Small internal capacitor cell; limited charge cycles once separated from grid power.
+* **Notes:** Represents the top tier of *functioning* post-Awakening field medicine — rare enough that its owner (Maya) is treated as the group's de facto medic by default.
+
+### Adaptive Bandages
+* **Status:** In-story canon (used under Iris's guidance during Kael's self-treatment)
+* **Description:** Smart-fiber wound dressings that conform to injury shape and release a mild antiseptic/coagulant compound on contact with broken skin.
+* **Function:** Faster clotting and infection resistance than gauze-era dressings; does not require manual wrapping technique.
+* **Notes:** Commonly found stockpiled in stasis-lock crates alongside nutrient pods — one of the more available salvage items in ruined medical shops.
+
+### Standard Bandages / Torn Cloth Dressings
+* **Status:** In-story canon (background — "torn bandages half-soaked in pod fluid," found "useless" in one instance)
+* **Notes:** Pre-Awakening non-adaptive stock. Still functional but requires manual technique and offers no antiseptic benefit — the fallback when adaptive stock runs out.
+
+### Nutrient Pods
+* **Status:** In-story canon (stasis-lock preserved, found in food distribution hubs and medical shops alike)
+* **Description:** Sealed reinforced-glass pods containing a synthetic nutrient/medical compound gel, scanned and categorized by Iris (e.g., "stamina regeneration," "tissue repair").
+* **Function:** Straddles the line between food and medicine — used both for baseline nutrition and, in higher-grade variants, for accelerated healing.
+* **Notes:** Because these were originally consumer synthetic-food product, not military-grade medicine, their effectiveness on a mutating body is inconsistent — a useful narrative lever if you want a "the pod worked strangely" beat later.
+
+---
+
+## 2. CLASS 4 STANDARD CARE (Pre-Awakening Civilian Baseline)
+
+### Autonomous Diagnostic Kiosk
+* **Status:** Background addition
+* **Description:** Public health-pod stations found in Class 4 residential blocks, offering free automated diagnostics, printed pharmaceutical dispensing, and minor wound treatment without a human physician present.
+* **Notes:** Almost certainly non-functional post-Awakening due to grid dependency — a good detail if Kael or the group encounters an abandoned one.
+
+### Synthetic Pharmaceutical Printer
+* **Status:** Background addition
+* **Description:** Home or clinic-based unit that 3D-prints dosage-specific medication from base chemical cartridges. Standard Class 4 household appliance alongside food printers referenced in your Schools & Colleges document (Biomedical Sciences, Tier 4).
+* **Notes:** Cartridges (not the printer itself) are the actual scarce resource post-collapse — printers are common junk, working cartridges are treasure.
+
+---
+
+## 3. CLASS 3/2 CORPORATE & OFFICIAL-TIER MEDICINE
+
+### Bio-Printed Regenerative Gel
+* **Status:** Background addition
+* **Description:** A premium-tier topical/injectable compound that accelerates tissue regeneration at the cellular level, bio-printed to match a patient's individual genetic profile.
+* **Access:** Restricted to Class 3 corporate medical suites and Class 2 official-tier clinics.
+* **Notes:** Ties directly into the Biomedical Sciences Tier 1–2 curriculum already defined in your Schools & Colleges document ("synthesizing custom pharmaceutical compounds via AI labs," "bionic prosthetic integrations").
+
+### Robotic Microsurgery Suite
+* **Status:** Background addition
+* **Description:** AI-guided surgical arms capable of cellular-precision procedures no human hand could perform — standard in Class 2/3 hospitals, entirely absent from Class 4 clinics.
+
+---
+
+## 4. SOVEREIGN DEFENSE DIRECTORATE MEDICAL CORPS
+
+### TPV Combat Medic Field Unit
+* **Purpose:** Standard-issue trauma kit for TPV infantry medics.
+* **Description:** Ruggedized, weatherproofed version of the civilian compact medical kit, with added combat-trauma modules (tourniquet-assist clamps, battlefield blood substitute injectors, and a triage-priority AI that overrides standard treatment order in mass-casualty scenarios).
+* **Notes:** If Nakamura or Tanaka still carry any Directorate-issue gear, this would be the plausible item — worth checking if you want to retroactively justify Maya's kit as Directorate-surplus rather than purely civilian.
+
+### HRA Pressure-Trauma Chamber
+* **Purpose:** Treats decompression and pressure-related trauma for naval/submersible personnel.
+* **Description:** A portable hyperbaric pod, deployable shipside, used for rapid stabilization before transfer to a full medical bay.
+
+### Verdant Guard "Ghost Stim" Combat Injector
+* **Purpose:** Emergency field stimulant for special operations personnel, allowing an operative to fight through injuries that would incapacitate standard personnel.
+* **Description:** A single-use auto-injector combining pain suppression, adrenal stimulation, and short-term wound-sealing nanite compound. Restricted, addictive with repeated use, and known internally to cause long-term cardiac strain — a deliberate trade-off for peak short-term performance.
+* **Notes:** Good option if you ever want a "desperate last resort" item for a high-stakes future scene — carries real narrative cost if used.
+
+---
+
+## 5. CLASS 1 / ELITE-TIER MEDICINE
+
+### Full Organic Regenerative Therapy
+* **Status:** Background addition
+* **Description:** Treatments using genuine biological compounds (not synthetic analogues) — real plasma, real pharmaceutical-grade organic extracts — available only within Eden Enclaves.
+* **Notes:** Mirrors the "real food = ultimate status symbol" logic already established in your Caste Hierarchy document; real medicine would carry the same symbolic weight.
+
+### Longevity & Cellular Age-Reversal Programs
+* **Status:** Background addition, tied directly to your Schools & Colleges Tier 1 Biomedical curriculum ("gene-editing therapies for cellular age reversal").
+* **Notes:** Purely background lore for now — no narrative use yet, but establishes why Class 1 elites can remain in power for unnaturally long spans if you want that as a future plot thread.
+
+---
+
+## 6. VIRAYA-EXPOSURE COMPLICATIONS (Narrative Hook — Background Only)
+
+Not yet introduced in the story, but worth flagging as a systemic tension: because Viraya energy is actively reshaping human biology (Section 7 of the Master Lore Registry — beast meat/growth rules), any medical treatment calibrated to pre-Awakening human baselines carries a risk of triggering unbalanced mutation if misapplied. This gives you a built-in reason why Class 4 survivors relying on salvaged pre-Awakening medicine are at a disadvantage beyond mere scarcity — the medicine itself may not fully understand the patient anymore.
+
+---
+
+*Legacy of the Lost Earth — Medicals Dossier | Companion reference to the Master Lore Registry | Confidential Author Document*
