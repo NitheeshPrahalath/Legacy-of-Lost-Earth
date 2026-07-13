@@ -1,0 +1,100 @@
+Natsu,
+
+There isn't a scientific survey that ranks **all animals of Mount Myōken (Hyōgo Prefecture)** by abundance. However, based on wildlife surveys from Hyōgo's low-to-mid elevation mountains (including the Myōken area), park records, and prefectural wildlife data, the following is a realistic ranking from **least commonly encountered to most commonly encountered**.
+
+## Mammals (Least Common → Most Common)
+
+1. Japanese Dormouse *(rare, nocturnal)*
+2. Japanese Giant Flying Squirrel
+3. Japanese Black Bear *(very rare in southern Hyōgo)*
+4. Japanese Marten
+5. Japanese Badger
+6. Red Fox
+7. Raccoon Dog (Tanuki)
+8. Japanese Hare
+9. Japanese Squirrel
+10. Japanese Macaque
+11. Sika Deer
+12. Japanese Wild Boar *(most commonly detected large mammal)* 
+
+---
+
+## Birds
+
+### Rare
+
+* Mountain Hawk-Eagle
+* Northern Goshawk
+* Peregrine Falcon
+* Copper Pheasant
+
+### Occasional
+
+* Japanese Green Woodpecker
+* Varied Tit
+* Japanese Bush Warbler
+* Brown Dipper
+
+### Common
+
+* Large-billed Crow
+* Brown-eared Bulbul
+* Japanese Tit
+* Oriental Turtle Dove ([kankyo.pref.hyogo.lg.jp][1])
+
+---
+
+## Reptiles & Amphibians
+
+**Least common**
+
+* Japanese Pond Turtle
+* Japanese Rat Snake
+* Japanese Mamushi
+
+**Moderately common**
+
+* Japanese Gecko
+* Japanese Tree Frog
+* Japanese Fire-bellied Newt
+
+**Most common**
+
+* Schlegel's Green Tree Frog ([kankyo.pref.hyogo.lg.jp][1])
+
+---
+
+## Insects
+
+Least → Most Common
+
+* Japanese Giant Stag Beetle
+* Japanese Rhinoceros Beetle
+* Japanese Giant Hornet
+* Giant Dragonflies
+* Cicadas
+* Butterflies (numerous common species)
+* Ants
+* Ground beetles
+
+---
+
+### If you're hiking Mount Myōken
+
+The animals you're **most likely** to encounter are:
+
+1. Japanese Wild Boar (tracks and rooting)
+2. Sika Deer
+3. Japanese Macaques
+4. Brown-eared Bulbuls
+5. Large-billed Crows
+6. Japanese Tits
+7. Tree Frogs
+8. Cicadas
+9. Butterflies
+10. Squirrels
+
+Predators such as black bears, hawk-eagles, and martens are present only in very low numbers or are extremely elusive, making sightings uncommon. Wildlife surveys in Hyōgo consistently report wild boar and deer as the dominant large mammals across the prefecture's forested mountains. ([kankyo.pref.hyogo.lg.jp][2])
+
+[1]: https://www.kankyo.pref.hyogo.lg.jp/eia/toyooka3/hyouka/doubutsu/chousa.htm?utm_source=chatgpt.com "動物調査結果：重要な動物"
+[2]: https://www.kankyo.pref.hyogo.lg.jp/jp/keikaku/leg_277/leg_5590/leg_765/leg_769?utm_source=chatgpt.com "ひょうごの環境 :: 第２部　第2章　自然環境"
