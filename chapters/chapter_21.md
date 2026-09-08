@@ -169,7 +169,7 @@ And yet, there wasn\'t a single person in sight.
 
 Kael staring at the town.
 
-\"Could there be a defense force?\"
+\"Could the been people have evacuated by  a defense force?\"
 
 Iris didn\'t answer immediately.
 
@@ -184,9 +184,6 @@ Kael turned his head slightly.
 \"I am aware.\"
 
 Kael sighed.
-
-\"Wouldn\'t a town this close to Mount Myōken have some kind of
-defensive force?\"
 
 He looked back toward the distant buildings.
 
@@ -285,11 +282,8 @@ creatures.\"
 
 \"\...the more powerful the surrounding ecosystem becomes.\"
 
-"The longer the outbreak continues, the more powerful the surrounding
-ecosystem appears to become."
-
 \"New mutations continue to emerge, and some creatures appear to be
-growing stronger over time.\"
+ growing stronger over time.\"
 
 Kael looked toward the distant town.
 
@@ -319,25 +313,24 @@ Running out of ammunition.
 
 Waiting for help that would never come.
 
-Kael stared at the skyline.
+Waiting for help that would might never come.
 
-For the first time since leaving Mount Myōken\...
+Kael started  moving towards the town.
 
-He felt something he hadn\'t experienced in weeks.
+They soon discovered that nearly all the buildings and minor damages.
 
-Hope.
+Somewhat broken Windows some was broken tiles, few Aero-striders and Aero-cruisers seemed to pushed to the edge off the roadway.
 
-But alongside it came something else.
+\"Looks like something pushed aside all these aero-striders and Aero-cruisers.\"
 
-Fear.
+Cherry jumped from Kael's shoulders and meowed as if wantedly calling Kael's attention.
 
-Because if there really were survivors inside that town\...
+Kael noticed several wheel trails left on the road where Cherry meowed from, no vehicle that Kael knows could leave a mark. These trails seem to come from the mountain ranges of Mount Myoken. These trails continue into the town.
 
-Then there was a possibility that the mutated creatures had found them
-too.
+\"Kael these trails are from a Military Vehicle generally called - High Mobility Vehicle that was used during the great war 100 years ago. I think the defense forces around the Mount Myoken found this in their base and used it to escape to this town.\"
 
-\"Let\'s keep moving.\"
+\"Iris if what you told is true dosn\'t that mean that there is a Sovereign Defense Directorate force here and we can reach their base if we follow this trail.\"
 
-Kael stepped forward.
+\"Excatly, But we should be careful, if people have vacated this place, it can only mean that the people here faced danger and were immedialtely alerted to move to a safe zone.\"
 
-Cherry followed.
+Soon Kael followed the trail into the town, as he went deeper into the town He saw several unrecognisable remains scavaged by mutated animals and rotten, it was clearly human remains and from the remains of the clothes attached to it, they were from the Sovereign Defense Directorate. The  
