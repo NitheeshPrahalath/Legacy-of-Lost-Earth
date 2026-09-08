@@ -552,3 +552,2292 @@ Highest Rank in Every Command
 | Companies / Squadrons       | **Captain-Prime**                     |
 | Platoons                    | **Sub-Prime**                         |
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Military Unifrm and Badge:
+I went through the entire document, including the evolution from the original four-star SDD seal → architectural/parallax concepts → the final **Parallax Shield** → the blood-activated Verdant Guard mechanism. The strongest direction is to **lock the Parallax Shield as the master SDD badge**, but I would make one important change: **the branch badges and unit badges should not each become completely different logos.** They should be a controlled hierarchy derived from the same SDD geometry.
+
+The source establishes the five branches, the shared SDD identity, the four-public/fifth-hidden concept, and the branch-specific visual language.  
+
+Below is the **final design system I would use as canon**.
+
+# SOVEREIGN DEFENSE DIRECTORATE
+
+## FINAL BADGE, BRANCH INSIGNIA & UNIFORM DESIGN SYSTEM
+
+### Canon Design Standard
+
+The Sovereign Defense Directorate should feel like a military institution that existed before the collapse, survived the collapse, and became even more powerful afterward.
+
+Its technology is advanced.
+
+Its visual identity is not flashy.
+
+Everything should feel:
+
+* severe
+* institutional
+* architectural
+* militaristic
+* technologically sophisticated
+* standardized
+* expensive
+* durable
+* intimidating
+
+The SDD should look like an organization that has been manufacturing the same military equipment for generations.
+
+---
+
+# I. THE SDD IDENTITY HIERARCHY
+
+The entire military uses **four levels of visual identification**:
+
+### LEVEL 1 — SDD MASTER BADGE
+
+Identifies membership in the Sovereign Defense Directorate.
+
+### LEVEL 2 — BRANCH INSIGNIA
+
+Identifies the soldier's branch:
+
+* TPV
+* HRA
+* ASC
+* OSL
+
+The fifth branch, Verdant Guard, does not publicly exist.
+
+### LEVEL 3 — UNIT BADGE
+
+Identifies the specific regiment, battalion, ship, wing, station, or special unit.
+
+### LEVEL 4 — PERSONAL IDENTIFICATION
+
+Rank, service number, specialization and clearance.
+
+This creates a visual hierarchy:
+
+**SDD → Branch → Unit → Individual**
+
+A soldier should therefore be recognizable at several levels without covering the uniform in patches.
+
+---
+
+# II. THE MASTER SDD BADGE
+
+## Final Design: THE PARALLAX SHIELD
+
+The previously selected Parallax Shield becomes the official SDD master badge.
+
+It replaces the earlier circular/four-star seal concept.
+
+The badge is a **three-dimensional diamond-shaped shield** constructed from layered gunmetal and brushed-metal elements.
+
+It should look manufactured rather than decorative.
+
+### Basic silhouette
+
+The outer silhouette is a vertically oriented armored diamond.
+
+Not a medieval shield.
+
+Not a heraldic crest.
+
+Instead, it resembles a piece of precision-machined military hardware.
+
+The four primary structural elements converge toward the center.
+
+From the front, they create the visual impression of **four sovereign forces locking together around one central authority.**
+
+---
+
+# III. THE FOUR PUBLIC STRUCTURAL POINTS
+
+The SDD badge contains four major structural ridges.
+
+These are not ordinary stars.
+
+They are four **Sovereignty Points**.
+
+They represent:
+
+**TPV — Territory**
+
+**HRA — Water**
+
+**ASC — Atmosphere**
+
+**OSL — Orbit**
+
+This is important because it makes the badge visually different from conventional military stars.
+
+The four points should look like structural components of the shield rather than four decorative stars.
+
+### Public interpretation
+
+Four military domains.
+
+### Actual reality
+
+There is a fifth structure hidden inside the badge.
+
+---
+
+# IV. THE PARALLAX CONSTRUCTION
+
+The center of the SDD badge contains a precision-milled recessed cavity.
+
+Inside that cavity is the hidden fifth structure.
+
+From ordinary viewing:
+
+**FOUR**
+
+From the correct authorized interaction:
+
+**FIVE**
+
+The fifth structure should not simply be painted green.
+
+It is a separate micro-machined layer embedded beneath the visible shield.
+
+Its material is dark, almost black metallic material with a subtle emerald structural response.
+
+The fifth element is therefore physically present in every SDD master badge.
+
+The ordinary soldier simply cannot properly perceive it.
+
+---
+
+# V. THE VERDANT SECURITY MECHANISM
+
+The earlier 45-degree-only concept is visually excellent but should **not be sufficient by itself**.
+
+A normal soldier could theoretically see the correct angle accidentally.
+
+Therefore the final canon mechanism combines:
+
+### Parallax + Blood Authentication
+
+The fifth element becomes visible only when the badge receives an authorized biological sample.
+
+A microscopic capillary seam exists in the center of the shield.
+
+To activate the badge, a Verdant Guard operative presses a fingertip against the concealed authentication point.
+
+The badge draws an extremely small blood sample.
+
+The internal system checks the biological signature.
+
+If the sample is unauthorized:
+
+Nothing happens.
+
+The badge remains an ordinary SDD badge.
+
+If the sample belongs to an authorized Verdant Guard operative:
+
+The internal microfluidic channels activate.
+
+The fifth structure becomes visible through the parallax geometry.
+
+A **dark muted-emerald glow** travels through the internal channels.
+
+It should look like a controlled chemical reaction rather than an LED.
+
+No neon green.
+
+No hologram.
+
+No obvious sci-fi glow.
+
+The fifth point appears to be **inside the metal itself.**
+
+The effect lasts only briefly.
+
+Then the badge returns to its normal appearance.
+
+This preserves the original narrative principle that the Verdant Guard is literally hidden inside the institution. The source's final concept already establishes the blood-activated fifth star and muted emerald response. 
+
+---
+
+# VI. SDD BADGE MATERIALS
+
+### Primary metal
+
+Gunmetal black
+
+### Structural metal
+
+Dark graphite
+
+### Highlight metal
+
+Brushed silver
+
+### Authentication response
+
+Muted emerald
+
+### Public accent
+
+Very restrained deep crimson
+
+### Recommended palette
+
+**Gunmetal Black**
+`#171B20`
+
+**Military Graphite**
+`#30363D`
+
+**Brushed Silver**
+`#A7ADB3`
+
+**Off-White**
+`#E5E7E8`
+
+**Deep Crimson**
+`#8E1B24`
+
+**Verdant Dark Green**
+`#183A29`
+
+The public SDD identity should never use obvious green.
+
+Green belongs exclusively to the hidden system.
+
+---
+
+# VII. PHYSICAL SDD BADGE
+
+The master badge should be manufactured as a real three-dimensional object.
+
+### Front
+
+* Diamond-shaped gunmetal body
+* Four structural sovereignty points
+* Recessed center
+* Micro-machined parallax channels
+* SDD identification
+* Minimal engraving
+
+### Back
+
+The back is functional rather than decorative.
+
+It contains:
+
+* attachment mechanism
+* authentication contacts
+* manufacturing serial
+* security identification
+* concealed microfluidic components
+
+The back should **not openly display a fifth star.**
+
+This is important.
+
+The fifth element is inside the badge.
+
+That makes the secret considerably stronger.
+
+---
+
+# VIII. WHERE THE SDD BADGE IS WORN
+
+### Standard personnel
+
+**Left upper chest**
+
+The SDD badge is the primary institutional identification.
+
+### Officers
+
+Left chest, positioned slightly higher and more prominently.
+
+### Combat troops
+
+A reduced armor-mounted version.
+
+### Formal uniform
+
+A full-metal presentation version.
+
+### Field environments
+
+The badge can be recessed into armor rather than physically protruding.
+
+---
+
+# IX. BRANCH INSIGNIA SYSTEM
+
+This is where I would change the previous design.
+
+Do **not** create five completely unrelated branch logos.
+
+Instead:
+
+> Every branch insignia is the SDD Parallax Shield with one controlled modification to its central geometry.
+
+The outer construction remains approximately 80–90% identical.
+
+That makes all five branches unmistakably part of one military.
+
+The branch symbol is therefore **inside the SDD framework**, not beside it.
+
+---
+
+# X. BRANCH 01 — TERRITORIAL PACIFICATION VANGUARD
+
+## TPV
+
+### Role
+
+Army.
+
+Mechanized infantry.
+
+Armored warfare.
+
+Territorial defense.
+
+Border security.
+
+### Design language
+
+**THE SHIELD**
+
+The TPV branch insignia uses a heavy downward-pointing armored chevron inside the SDD geometry.
+
+The shape should resemble:
+
+* armored plating
+* fortress architecture
+* a defensive wedge
+* a grounded military formation
+
+No tank illustration.
+
+No rifle.
+
+No soldier silhouette.
+
+### Colors
+
+Primary:
+Gunmetal / Graphite
+
+Secondary:
+Army Olive `#4A5138`
+
+Accent:
+Muted Crimson
+
+### Branch badge
+
+The SDD diamond remains.
+
+The four structural points remain.
+
+The center becomes a **heavy armored chevron**.
+
+The chevron should appear almost like an additional piece of armor bolted into the badge.
+
+### TPV uniform
+
+**Base:** Graphite-black
+
+**Armor:** Olive-gray
+
+**Structural armor:** Gunmetal
+
+**Rank:** Brushed silver
+
+**Identification:** Very restrained olive
+
+**Boots:** Matte black
+
+**Gloves:** Matte black
+
+The armor should be heavy and angular.
+
+TPV personnel should visually appear heavier than the other branches.
+
+---
+
+# XI. BRANCH 02 — HYDRO-RESOURCE ARMADA
+
+## HRA
+
+### Role
+
+* Naval warfare
+* Ocean security
+* Desalination-fleet protection
+* Maritime infrastructure
+
+Commander-Regent Nakamura belongs to this branch.
+
+### Design language
+
+**THE HORIZON**
+
+The HRA central symbol should be a geometric horizontal wave intersected by a vertical structural element.
+
+Do not use a literal ship.
+
+Do not use an anchor.
+
+The symbol should look like engineered water infrastructure.
+
+### Colors
+
+Primary:
+Deep Navy `#101E2D`
+
+Secondary:
+Ocean Blue `#164E63`
+
+Accent:
+Desalination Teal `#3B8C91`
+
+Metal:
+Silver `#A7ADB3`
+
+### Branch badge
+
+The diamond is slightly wider horizontally.
+
+The four SDD structural points remain.
+
+The center becomes:
+
+**Horizon + Wave + Vertical Authority**
+
+This gives HRA its maritime identity without becoming a conventional navy emblem.
+
+### HRA uniform
+
+**Base:** Deep Navy
+
+**Armor:** Graphite
+
+**Structural components:** Dark gunmetal
+
+**Piping:** Extremely subtle teal
+
+**Rank:** Silver
+
+**Boots:** Matte black
+
+HRA should look like the military responsible for controlling an entire planet's water infrastructure—not a conventional navy.
+
+---
+
+# XII. BRANCH 03 — ATMOSPHERIC SUPREMACY COMMAND
+
+## ASC
+
+### Role
+
+* Air superiority
+* Strategic aviation
+* Atmospheric defense
+* Airspace control
+
+### Design language
+
+**THE VECTOR**
+
+The ASC central symbol is an upward aerodynamic vector.
+
+It should suggest:
+
+* ascent
+* flight
+* interception
+* speed
+* atmospheric control
+
+Avoid literal wings.
+
+The symbol should be sharp enough that it almost resembles a weapon.
+
+### Colors
+
+Primary:
+Graphite
+
+Secondary:
+Air Force Blue `#315A78`
+
+Accent:
+Pale Cyan `#83B7C9`
+
+Metal:
+Silver
+
+### Branch badge
+
+The diamond remains narrow and vertically aggressive.
+
+The center becomes an upward-pointing vector/wing structure.
+
+The four outer sovereignty points remain identical.
+
+### ASC uniform
+
+**Base:** Graphite-gray
+
+**Armor:** Blue-gray
+
+**Helmet:** Black/graphite
+
+**Identification:** Pale cyan
+
+**Rank:** Silver
+
+A single cyan identification line can run from the collar toward the shoulder.
+
+ASC should be the most aerodynamic-looking branch.
+
+---
+
+# XIII. BRANCH 04 — ORBITAL STRIKE & LOGISTICS
+
+## OSL
+
+### Role
+
+* Orbital warfare
+* Satellites
+* Communications
+* Space infrastructure
+* Lunar operations
+
+### Design language
+
+**THE ORBIT**
+
+The OSL central symbol is a geometric core surrounded by a single orbital trajectory.
+
+Do not use a planet.
+
+Do not use an astronaut.
+
+Do not use a rocket.
+
+The design should communicate infrastructure and orbital control.
+
+### Colors
+
+Primary:
+Near Black `#0B0F14`
+
+Secondary:
+Deep Space Blue `#172A46`
+
+Accent:
+Electric Violet `#6657A6`
+
+Metal:
+Cold Silver `#BFC7D0`
+
+### Branch badge
+
+The four outer SDD sovereignty points remain.
+
+The center contains the orbital core.
+
+The orbital ring is the most visually distinctive feature of the OSL badge.
+
+### OSL uniform
+
+**Base:** Near-black
+
+**Armor:** Deep space blue
+
+**Structural components:** Black graphite
+
+**Accent:** Extremely subtle violet
+
+**Rank:** Cold silver
+
+The OSL uniform should look the most technologically advanced.
+
+---
+
+# XIV. BRANCH 05 — VERDANT GUARD
+
+## CLASSIFIED
+
+The Verdant Guard does **not** receive a conventional branch badge.
+
+There is no:
+
+* VG logo
+* leaf logo
+* dagger
+* skull
+* commando symbol
+* green military patch
+* "VERDANT GUARD" text
+
+The source specifically establishes that the Guard should not have an obvious public branch identity. 
+
+Their identity is contained within the SDD badge itself.
+
+---
+
+# XV. THE VERDANT GUARD REVEALED BADGE
+
+When authenticated, the SDD badge changes.
+
+The four structural points remain.
+
+The central parallax structure shifts optically.
+
+The hidden fifth point becomes visible.
+
+The internal channels illuminate in muted emerald.
+
+The result is:
+
+**FOUR STRUCTURES + ONE HIDDEN CORE**
+
+The fifth element should not look like a normal star.
+
+I recommend making it a **five-point geometric sovereignty node** that shares the same construction language as the four public points.
+
+That way, when Nakamura eventually sees it, his immediate realization is:
+
+> This was never an additional symbol.
+
+> It was always part of the SDD.
+
+That is much stronger.
+
+---
+
+# XVI. VERDANT GUARD FIELD UNIFORM
+
+The Guard should have the least identifiable uniform.
+
+### Base
+
+Matte black.
+
+### Armor
+
+Black/dark gunmetal.
+
+### Surface
+
+Light-absorbing, non-reflective material.
+
+### Rank
+
+Extremely subdued.
+
+### Branch color
+
+None.
+
+### Branch name
+
+None.
+
+### Visible insignia
+
+Standard SDD badge.
+
+This is critical.
+
+A Guard operative should be able to stand beside TPV, HRA, ASC or OSL personnel and appear to be another anonymous SDD specialist.
+
+The difference is not what they wear.
+
+The difference is what their badge can reveal.
+
+---
+
+# XVII. VERDANT GUARD FORMAL UNIFORM
+
+For circumstances where the Guard must appear as senior military personnel:
+
+* Black high collar
+* Black structured coat
+* Dark gunmetal fasteners
+* Almost invisible green-black piping
+* Minimal silver rank
+* Standard SDD badge
+
+There should be absolutely no "secret agent" styling.
+
+They should look like senior military officers.
+
+---
+
+# XVIII. THE UNIT BADGE SYSTEM
+
+This is the major addition I recommend.
+
+The SDD should have a **separate unit identification system** rather than creating a completely new crest for every unit.
+
+Otherwise, 47 bases and numerous battalions will create visual chaos.
+
+The organization has 47 joint bases and eight regional commands, so the system needs to scale. 
+
+The solution:
+
+## UNIT BADGES ARE SECONDARY GEOMETRIC MARKERS.
+
+They sit beneath the SDD/branch identity.
+
+---
+
+# XIX. UNIT BADGE CONSTRUCTION
+
+Every unit badge uses a standardized rectangular or shield-shaped plate.
+
+The plate has four components:
+
+### 1. Branch frame
+
+Identifies the branch.
+
+### 2. Unit number
+
+The numerical designation.
+
+### 3. Unit symbol
+
+One simple geometric icon.
+
+### 4. Command code
+
+Small text identifying regional or operational command.
+
+No unit should have a completely independent visual language.
+
+---
+
+# XX. UNIT BADGE SHAPE
+
+I recommend:
+
+### Battalion
+
+Horizontal rectangular plate with clipped corners.
+
+### Regiment / larger formation
+
+Hexagonal plate.
+
+### Base / installation
+
+Vertical shield plate.
+
+### Fleet / vessel
+
+Horizontal plate.
+
+### Air wing
+
+Tapered aerodynamic plate.
+
+### Orbital facility
+
+Circular/elliptical plate.
+
+This allows the viewer to identify the type of formation by silhouette alone.
+
+---
+
+# XXI. UNIT NUMBERING
+
+The unit number should be the largest piece of information.
+
+Example:
+
+**TPV–117**
+
+**HRA–08**
+
+**ASC–214**
+
+**OSL–31**
+
+The branch is already recognizable through the badge design and color.
+
+The number identifies the specific unit.
+
+This is much cleaner than writing the entire unit name on every badge.
+
+---
+
+# XXII. UNIT SYMBOLS
+
+Unit symbols should be abstract.
+
+Never use detailed illustrations.
+
+Examples:
+
+### TPV
+
+* Chevron
+* Fortress
+* Mountain
+* Road
+* Spear
+* Bastion
+
+### HRA
+
+* Wave
+* Droplet
+* Horizon
+* Pressure-ring
+* Current
+* Trident-like geometry without becoming a literal trident
+
+### ASC
+
+* Vector
+* Wing geometry
+* Arrow
+* Intercept trajectory
+* Atmospheric arc
+
+### OSL
+
+* Orbit
+* Node
+* Lunar arc
+* Satellite geometry
+* Trajectory
+
+The symbol is intentionally simple enough to be recognized from several meters away.
+
+---
+
+# XXIII. EXAMPLE — HIKONE DEFENSE BASE
+
+Hikone belongs to the Territorial Pacification Vanguard.
+
+Its unit/base badge could therefore be:
+
+**TPV**
+
+**HIKONE**
+
+**DEFENSE BASE**
+
+with a simple angular fortress symbol.
+
+The badge would use the TPV olive-gray identification system while retaining the SDD gunmetal construction.
+
+The badge should never compete visually with the main SDD badge.
+
+---
+
+# XXIV. EXAMPLE — IZUMO COASTAL BASE
+
+Izumo belongs to the Hydro-Resource Armada.
+
+Its badge could be:
+
+**HRA**
+
+**IZUMO**
+
+**COASTAL BASE**
+
+with a geometric horizon/wave unit symbol.
+
+Nakamura's personal uniform would therefore contain:
+
+### Primary
+
+SDD Parallax Shield
+
+### Secondary
+
+HRA branch insignia
+
+### Tertiary
+
+Izumo unit/base identification
+
+### Personal
+
+Commander-Regent rank insignia
+
+This gives the uniform a believable military information hierarchy.
+
+---
+
+# XXV. TENRI SECURITY BASE
+
+This is where the design becomes particularly interesting.
+
+Officially:
+
+**TENRI SECURITY BASE**
+
+**VERDANT GUARD DOES NOT APPEAR**
+
+The visible installation markings should look like a normal SDD security installation or potentially an ordinary classified facility.
+
+There should be no public "Verdant Guard" branding.
+
+This preserves the classified nature of the branch.
+
+After the destruction of Tenri, however, Nakamura could encounter physical evidence that doesn't belong to the official system.
+
+That evidence becomes narratively powerful precisely because it violates the visual rules.
+
+---
+
+# XXVI. UNIT BADGE + VERDANT GUARD
+
+Verdant Guard units should not use conventional unit badges.
+
+Instead, their unit information is encoded into the **authentication layer** of their SDD badge.
+
+An authorized Guard operative can authenticate the badge and reveal:
+
+**FIFTH CORE**
+
+Then, at a deeper clearance level, additional information can appear through microscopic engraving or controlled illumination.
+
+For example:
+
+**V–03**
+
+or
+
+**VG–17**
+
+But these markings should never be visible during ordinary military use.
+
+---
+
+# XXVII. RANK INSIGNIA
+
+Rank should remain independent of branch.
+
+This is important.
+
+A Commander-Regent in HRA and a Commander-Regent in ASC should have the same rank insignia.
+
+Branch identity comes from:
+
+* badge
+* color
+* uniform architecture
+
+Rank comes from:
+
+* silver geometric bars
+* collar insignia
+* shoulder geometry
+
+The existing rank hierarchy remains:
+
+* Sub-Prime
+* Captain-Prime
+* Major-Tactical
+* Commander-Regent
+* Colonel-Logis
+* higher ranks
+
+Commander-Regent remains a senior command position. 
+
+---
+
+# XXVIII. FINAL UNIFORM INFORMATION HIERARCHY
+
+Every normal SDD soldier should visually read like this:
+
+### LEFT CHEST
+
+**SDD MASTER BADGE**
+
+"Who do you belong to?"
+
+### RIGHT CHEST / SHOULDER
+
+**BRANCH INSIGNIA**
+
+"What branch are you?"
+
+### LOWER CHEST / SHOULDER
+
+**UNIT BADGE**
+
+"Which formation are you assigned to?"
+
+### COLLAR / SHOULDER
+
+**RANK**
+
+"How senior are you?"
+
+### OPTIONAL SMALL IDENTIFIER
+
+Specialization / qualification.
+
+That is enough.
+
+No uniform should carry ten different patches.
+
+---
+
+# XXIX. FORMAL OFFICER UNIFORM
+
+The formal uniform simplifies everything.
+
+### Base
+
+Near-black.
+
+### Collar
+
+High and rigid.
+
+### Shoulders
+
+Structured.
+
+### Buttons
+
+Dark gunmetal.
+
+### Rank
+
+Brushed silver.
+
+### SDD badge
+
+Left chest.
+
+### Branch badge
+
+Right chest.
+
+### Unit identification
+
+Small, low-profile plate.
+
+### Branch color
+
+Only a very thin line of piping.
+
+The higher the officer, the less decorative the uniform should become.
+
+Power is communicated through simplicity.
+
+---
+
+# XXX. COMBAT UNIFORM
+
+Combat uniforms prioritize function.
+
+### Shared SDD construction
+
+* Graphite-black base
+* Modular armor
+* Gunmetal components
+* Matte black gloves
+* Matte black boots
+* Helmet integrated with branch equipment
+
+### Branch differentiation
+
+Only:
+
+* armor geometry
+* subtle branch color
+* branch badge
+* equipment configuration
+
+The four branches should immediately look related.
+
+---
+
+# XXXI. BRANCH VISUAL SUMMARY
+
+| Branch            | Identity    | Primary     | Secondary         | Central Geometry  |
+| ----------------- | ----------- | ----------- | ----------------- | ----------------- |
+| **SDD**           | Sovereignty | Gunmetal    | Silver/Crimson    | Parallax Shield   |
+| **TPV**           | Territory   | Graphite    | Army Olive        | Armored Chevron   |
+| **HRA**           | Water       | Deep Navy   | Teal              | Horizon/Wave      |
+| **ASC**           | Atmosphere  | Graphite    | Air Blue/Cyan     | Upward Vector     |
+| **OSL**           | Orbit       | Near Black  | Space Blue/Violet | Orbital Core      |
+| **Verdant Guard** | Hidden      | Matte Black | Forest Green      | Hidden Fifth Core |
+
+The branch roles and color directions remain consistent with the established source material. 
+
+---
+
+# XXXII. FINAL BADGE FAMILY
+
+The complete visual family should therefore look like this:
+
+### SDD
+
+**PARALLAX SHIELD**
+
+Four visible sovereignty structures.
+
+### TPV
+
+**PARALLAX SHIELD + ARMORED CORE**
+
+### HRA
+
+**PARALLAX SHIELD + HORIZON CORE**
+
+### ASC
+
+**PARALLAX SHIELD + VECTOR CORE**
+
+### OSL
+
+**PARALLAX SHIELD + ORBITAL CORE**
+
+### VERDANT GUARD
+
+**PARALLAX SHIELD + HIDDEN FIFTH CORE**
+
+### UNIT
+
+**BRANCH FRAME + UNIT NUMBER + SIMPLE GEOMETRIC SYMBOL**
+
+This is the system I would lock.
+
+---
+
+# XXXIII. THE MOST IMPORTANT DESIGN RULE
+
+Do not design the SDD, branches and units as separate logos.
+
+Design them as **one military language.**
+
+Think of it like architecture.
+
+The SDD creates the building.
+
+The branch changes the room.
+
+The unit changes the identification plate.
+
+The individual changes the rank.
+
+Everything still belongs to the same building.
+
+---
+
+# XXXIV. THE FINAL CANON
+
+The Sovereign Defense Directorate has one master insignia:
+
+## THE PARALLAX SHIELD
+
+It contains four publicly recognizable structural points.
+
+Those four points represent the four acknowledged military branches.
+
+The fifth structure physically exists inside every badge.
+
+It is inaccessible to ordinary personnel.
+
+A Verdant Guard operative authenticates the badge using blood.
+
+The badge recognizes the operative.
+
+The internal system activates.
+
+The hidden fifth structure becomes visible through the parallax construction and emits a brief muted-emerald response.
+
+There is no Verdant Guard logo.
+
+There is no green public uniform.
+
+There is no "VG" patch.
+
+There is no leaf.
+
+There is no skull.
+
+There is no dagger.
+
+There is simply the **fifth element that was always there.**
+
+The four branches wear different expressions of the same SDD architecture.
+
+Units use a standardized secondary identification system rather than inventing independent logos.
+
+Therefore the military's visual hierarchy becomes:
+
+**SOVEREIGN DEFENSE DIRECTORATE**
+
+↓
+
+**BRANCH**
+
+↓
+
+**UNIT**
+
+↓
+
+**RANK**
+
+↓
+
+**INDIVIDUAL**
+
+And underneath all of it is the secret:
+
+**Four are visible. Five were always present.**
+
+The SDD badge is therefore not merely an insignia.
+
+It is the physical architecture of the Directorate's greatest secret.
+
+### My strongest recommendation
+
+I would **not change the Parallax Shield now**. The earlier circular four-star seal was generic; the diamond/parallax construction gives the SDD a much more recognizable silhouette. The one thing I would change from the latest Gemini version is the idea that the fifth element is revealed merely by looking at a 45° angle. **Blood authentication should be the actual key; parallax should be the visual mechanism that makes the authenticated fifth element appear.**
+
+That solves the accidental-discovery problem while preserving the really good visual idea.
+
+And for the **unit badges**, I strongly recommend the standardized system above rather than giving every battalion/base its own completely unrelated emblem. It will make the world feel like a real military bureaucracy rather than a collection of fictional logos.
+
+
+
+
+
+
+
+
+Yes. The attached image establishes the **new definitive physical appearance** of the SDD badge. I would keep the previous lore, hierarchy, branch meanings, and hidden-five-star concept, but **replace the old badge appearance completely** with this design language.
+
+The key visual change is: **a sharp diamond-shaped armored badge made from four massive directional metal plates around a central void, with recessed emerald channels underneath the plates.** It is much more severe, premium, and mechanical than the earlier shield concept.
+
+Below is the updated final canon.
+
+# SOVEREIGN DEFENSE DIRECTORATE
+
+## FINAL BADGE, BRANCH UNIFORM & UNIT INSIGNIA DESIGN SYSTEM
+
+### Design Status
+
+**FINAL VISUAL STANDARD**
+
+The attached reference image establishes the definitive physical appearance and construction language of the SDD insignia.
+
+The previous Parallax Shield concept remains the **organizational concept**, but its physical form is now standardized as the **SDD Diamond Parallax Badge**.
+
+---
+
+# 1. SDD MASTER BADGE
+
+## Official Designation
+
+**SDD Diamond Parallax Badge**
+
+## Primary Shape
+
+The badge is a **perfect vertical diamond**, constructed from four major directional armor assemblies.
+
+It is not a conventional heraldic shield.
+
+It should resemble a piece of **precision-engineered military hardware** mounted onto a uniform.
+
+The outer silhouette is:
+
+* four straight sides
+* sharp upper and lower points
+* left and right points
+* perfectly symmetrical
+* no rounded edges
+* no ornamental border
+* no conventional crest
+
+The diamond itself represents the unified territorial architecture of the Directorate.
+
+---
+
+# 2. FOUR PRIMARY STRUCTURES
+
+The badge consists visually of **four large metallic directional plates**.
+
+Each plate occupies one quadrant:
+
+* Upper structure
+* Right structure
+* Lower structure
+* Left structure
+
+Each is formed from layered, angular armor geometry.
+
+The plates are not flat.
+
+They have:
+
+* deep bevels
+* raised central ridges
+* recessed secondary plates
+* narrow separation channels
+* sharp machined edges
+* varying surface depths
+
+The result should look almost like **four interlocking pieces of advanced armor**.
+
+There should be a clear physical separation between the four structures.
+
+---
+
+# 3. CENTRAL VOID
+
+At the exact center is a **dark geometric void**.
+
+This is one of the most important characteristics of the new design.
+
+The center should NOT contain a conventional emblem.
+
+Instead, the four major structures appear to converge around an empty central space.
+
+The central void represents:
+
+**authority without a visible center.**
+
+It also provides the visual mechanism for the concealed fifth structure.
+
+The void should remain almost completely black in the normal state.
+
+---
+
+# 4. HIDDEN INTERNAL CHANNELS
+
+Beneath the four primary silver/graphite armor plates are narrow recessed channels.
+
+These channels contain the SDD's characteristic **deep emerald internal material**.
+
+The emerald is not painted onto the badge.
+
+It exists **physically underneath the armor layers**.
+
+Therefore the viewer sees only thin emerald lines through the gaps between the metal structures.
+
+The effect should resemble:
+
+**a classified energy/authentication system buried inside the badge.**
+
+The green must remain:
+
+* dark
+* muted
+* translucent
+* recessed
+* controlled
+
+Never neon.
+
+---
+
+# 5. MATERIAL CONSTRUCTION
+
+The badge is manufactured from multiple layers of precision-machined metal.
+
+### Primary material
+
+**Brushed dark silver / gunmetal**
+
+### Secondary material
+
+**Near-black graphite metal**
+
+### Internal material
+
+**Dark translucent emerald**
+
+### Edge treatment
+
+Highly polished but narrow metallic edges.
+
+The contrast between:
+
+**dark body → bright machined edge → black recess → emerald interior**
+
+is fundamental to the appearance.
+
+---
+
+# 6. SURFACE FINISH
+
+The badge should NOT look like polished jewelry.
+
+It should look like a military object that has been manufactured to extremely high tolerances.
+
+Surface characteristics:
+
+* fine machining marks
+* microscopic scratches
+* brushed-metal texture
+* controlled reflections
+* hard bevel transitions
+* recessed seams
+* slightly weathered metal
+* no decorative engraving
+
+The reference appearance should feel **expensive because of engineering quality, not ornamentation.**
+
+---
+
+# 7. PARALLAX EFFECT
+
+The four structures are deliberately layered at different depths.
+
+When viewed directly:
+
+The badge appears as a unified four-part diamond.
+
+When viewed from an angle:
+
+The different metal layers separate visually.
+
+The emerald channels become more apparent.
+
+The central architecture begins to reveal additional geometry.
+
+This is the **Parallax principle**.
+
+The badge therefore changes visually depending on viewing angle without physically changing shape.
+
+---
+
+# 8. THE FIFTH STRUCTURE
+
+The SDD still contains the classified fifth structure.
+
+However:
+
+**The fifth structure is NOT a visible fifth star.**
+
+It is physically integrated into the central architecture.
+
+In the normal state:
+
+* four primary structures are visible
+* central void remains dark
+* emerald channels remain subtle
+* no fifth symbol is identifiable
+
+After authorized biometric authentication:
+
+* the central architecture activates
+* the hidden structure becomes visually distinguishable
+* emerald illumination increases slightly
+* the fifth geometry emerges from the central void/parallax layers
+
+The fifth structure should feel as though it was **always physically present inside the badge**.
+
+---
+
+# 9. AUTHENTICATION
+
+Blood authentication is the actual security mechanism.
+
+Parallax is the **visual revelation mechanism**.
+
+It must NOT be possible for simply rotating the badge to accidentally activate the classified fifth structure.
+
+Therefore:
+
+**Biometric authentication unlocks the hidden state.**
+
+**Parallax reveals the hidden geometry.**
+
+This distinction is now part of the official design.
+
+---
+
+# 10. COLOR STANDARD
+
+### SDD Master
+
+| Component                | Color                        |
+| ------------------------ | ---------------------------- |
+| Primary metal            | Gunmetal / dark silver       |
+| Secondary metal          | Graphite black               |
+| Deep recesses            | Near-black                   |
+| Edge highlights          | Brushed silver               |
+| Hidden internal material | Dark emerald                 |
+| Authentication response  | Deep crimson → muted emerald |
+
+Recommended visual references:
+
+**Gunmetal Black:** `#171B20`
+
+**Military Graphite:** `#30363D`
+
+**Brushed Silver:** `#A7ADB3`
+
+**Near Black:** `#090B0D`
+
+**Deep Crimson:** `#8E1B24`
+
+**Verdant Dark:** `#183A29`
+
+Emerald is reserved for the classified authentication system.
+
+---
+
+# 11. OFFICIAL MASTER BADGE APPEARANCE
+
+The definitive SDD badge should visually read as:
+
+> **Four armored blades forming a diamond around an empty center, with a hidden emerald architecture beneath them.**
+
+It should NOT read as:
+
+* medieval shield
+* coat of arms
+* police badge
+* conventional military crest
+* superhero emblem
+* fantasy insignia
+* ordinary five-point star
+
+Its visual language is:
+
+**industrial + military + aerospace + classified technology.**
+
+---
+
+# 12. BRANCH INSIGNIA SYSTEM
+
+The five SDD branches continue to use the same master architecture.
+
+The branches do NOT receive completely independent logos.
+
+Instead:
+
+**SDD Diamond Parallax Badge + Branch Core**
+
+The outer diamond architecture remains recognizable across all branches.
+
+Only the internal geometric structure changes.
+
+This creates a single military identity.
+
+---
+
+# 13. TPV — TERRITORIAL PACIFICATION VANGUARD
+
+## Badge Core
+
+The four-piece diamond remains identical to the master badge.
+
+Inside it, the branch geometry becomes a **heavy downward armored core**.
+
+The internal structure should suggest:
+
+* ground
+* fortified territory
+* armored formations
+* mechanized warfare
+* defensive barriers
+* territorial control
+
+The geometry should be thick and aggressive.
+
+No literal tank.
+
+No soldier.
+
+No rifle.
+
+No skull.
+
+### TPV Colors
+
+* gunmetal
+* graphite
+* military olive-gray
+* muted silver
+* extremely restrained crimson
+
+### Visual Character
+
+**Heavy. Grounded. Armored. Immovable.**
+
+---
+
+# 14. HRA — HYDRO-RESOURCE ARMADA
+
+## Badge Core
+
+The same four-part diamond architecture is retained.
+
+The interior becomes a **horizontal hydro-mechanical geometry**.
+
+Use:
+
+* engineered horizon line
+* layered wave geometry
+* vertical hydraulic channels
+* circular pressure structures
+
+The design should feel like a military-controlled water infrastructure system rather than an artistic wave.
+
+No literal ship.
+
+No anchor.
+
+No fish.
+
+No traditional trident.
+
+### HRA Colors
+
+* deep navy
+* gunmetal
+* graphite
+* restrained ocean blue
+* dark desalination teal
+* silver
+
+### Visual Character
+
+**Stable. Vast. Maritime. Infrastructure-focused.**
+
+---
+
+# 15. ASC — ATMOSPHERIC SUPREMACY COMMAND
+
+## Badge Core
+
+The diamond remains unchanged.
+
+The internal structure becomes a sharp **upward aerodynamic vector**.
+
+The geometry should resemble:
+
+* aerodynamic surfaces
+* interception trajectories
+* atmospheric vectors
+* high-speed structural lines
+* upward force
+
+Do not use literal wings.
+
+Do not use an eagle.
+
+### ASC Colors
+
+* graphite
+* gunmetal
+* blue-gray
+* pale cyan
+* silver
+
+### Visual Character
+
+**Fast. Precise. Aerodynamic. Dominant.**
+
+---
+
+# 16. OSL — ORBITAL STRIKE & LOGISTICS
+
+## Badge Core
+
+The same diamond architecture contains an integrated **orbital mechanical core**.
+
+Use:
+
+* elliptical orbital channels
+* central node
+* intersecting trajectories
+* orbital ring geometry
+* communication-node structures
+
+The orbital ring must be physically integrated into the badge rather than floating around it.
+
+No literal planet.
+
+No astronaut.
+
+No rocket illustration.
+
+No starfield.
+
+### OSL Colors
+
+* near-black
+* deep space blue
+* graphite
+* cold silver
+* restrained violet
+
+### Visual Character
+
+**Remote. Precise. Strategic. Technological.**
+
+---
+
+# 17. VERDANT GUARD
+
+The Verdant Guard does NOT receive a conventional public branch emblem.
+
+There is:
+
+* no public VG logo
+* no leaf symbol
+* no skull
+* no dagger
+* no green shoulder patch
+* no obvious fifth-star badge
+
+A Verdant Guard operative can visually appear to belong to the ordinary SDD structure.
+
+Their badge is the **standard SDD Diamond Parallax Badge**.
+
+The classified distinction exists inside the authentication system.
+
+Upon authorized authentication:
+
+**the hidden fifth structure emerges.**
+
+The emerald architecture becomes active.
+
+This makes the Verdant Guard not a separate visible military branch, but a **concealed layer inside the SDD itself.**
+
+---
+
+# 18. BRANCH UNIFORM STANDARD
+
+The uniform system follows the same philosophy as the badges.
+
+Every branch looks like part of the same military.
+
+The differences come from:
+
+**armor geometry + subdued branch color + equipment configuration.**
+
+---
+
+## TPV Uniform
+
+### Base
+
+* graphite-black combat uniform
+* olive-gray armored plates
+* gunmetal protective components
+* matte black boots and gloves
+
+### Armor
+
+Heavy angular plates.
+
+Broad shoulders.
+
+Reinforced torso.
+
+Large structural components.
+
+The silhouette should feel dense and grounded.
+
+### Badge Placement
+
+**Left chest:** SDD Diamond Parallax Badge
+
+**Right chest / upper shoulder:** TPV branch identifier
+
+**Unit position:** standardized secondary patch
+
+**Collar / shoulder:** rank
+
+---
+
+## HRA Uniform
+
+### Base
+
+* deep navy
+* graphite
+* dark gunmetal
+
+### Armor
+
+More streamlined than TPV.
+
+Subtle maritime/hydraulic geometry.
+
+Dark teal identification details.
+
+### Silhouette
+
+Professional naval/infrastructure command appearance without traditional sailor styling.
+
+---
+
+## ASC Uniform
+
+### Base
+
+* graphite-gray
+* blue-gray
+* near-black
+
+### Armor
+
+Aerodynamic.
+
+Reduced protrusions.
+
+Sharp directional seams.
+
+Lightweight appearance.
+
+### Identification
+
+Subtle pale-cyan accents.
+
+No bright aviation-style colors.
+
+---
+
+## OSL Uniform
+
+### Base
+
+* near-black
+* deep space blue
+* graphite
+
+### Armor
+
+Highly modular.
+
+Slim silhouette.
+
+Integrated technical equipment.
+
+Subtle violet identification details.
+
+The uniform should feel suitable for orbital installations, command centers and advanced aerospace operations.
+
+---
+
+# 19. VERDANT GUARD UNIFORM
+
+The Verdant Guard uniform must visually disappear into the broader SDD system.
+
+### Base
+
+* matte black
+* dark graphite
+* black gunmetal
+
+### Armor
+
+Minimal external ornamentation.
+
+No visible branch color.
+
+No visible Verdant Guard emblem.
+
+### Rank
+
+Subdued.
+
+### Badge
+
+Standard SDD Diamond Parallax Badge.
+
+The only distinctive feature is the classified authentication capability.
+
+### Formal Uniform
+
+A severe black structured coat with:
+
+* high collar
+* dark gunmetal fasteners
+* almost invisible green-black internal detailing
+* minimal silver rank
+* standard SDD badge
+
+The Verdant Guard should look like:
+
+**an absence of identification rather than an obvious elite unit.**
+
+---
+
+# 20. UNIT BADGE SYSTEM
+
+Unit badges remain subordinate to the SDD and branch badges.
+
+The system must be standardized across the entire Directorate.
+
+### Hierarchy
+
+**SDD → Branch → Unit → Rank → Individual**
+
+The unit badge answers:
+
+> **Which formation does this person belong to?**
+
+---
+
+# 21. UNIT BADGE CONSTRUCTION
+
+Every unit badge consists of four elements:
+
+### 1. Standardized frame
+
+Formation-specific geometry.
+
+### 2. Branch identifier
+
+TPV / HRA / ASC / OSL
+
+### 3. Unit number
+
+The largest readable identifier.
+
+### 4. Unit symbol
+
+One simple geometric symbol representing the formation.
+
+---
+
+# 22. UNIT BADGE SHAPES
+
+### Battalion
+
+Horizontal rectangle with clipped corners.
+
+### Regiment / major formation
+
+Hexagonal plate.
+
+### Base / installation
+
+Vertical diamond-shield variant.
+
+### Fleet / vessel
+
+Horizontal armored plate.
+
+### Air Wing
+
+Tapered aerodynamic plate.
+
+### Orbital Facility
+
+Circular/elliptical technical plate.
+
+All must use the same SDD manufacturing language.
+
+---
+
+# 23. UNIT NUMBERING
+
+The unit number is visually dominant.
+
+Examples:
+
+**TPV–117**
+
+**HRA–08**
+
+**ASC–214**
+
+**OSL–31**
+
+The number should remain readable from a reasonable distance.
+
+---
+
+# 24. UNIT SYMBOL LANGUAGE
+
+### TPV
+
+Possible geometric motifs:
+
+* fortress
+* chevron
+* bastion
+* mountain
+* road
+* defensive wall
+
+### HRA
+
+Possible motifs:
+
+* wave
+* horizon
+* pressure ring
+* hydraulic channel
+* current
+* droplet geometry
+
+### ASC
+
+Possible motifs:
+
+* vector
+* intercept path
+* atmospheric arc
+* aerodynamic blade
+* trajectory
+
+### OSL
+
+Possible motifs:
+
+* orbit
+* node
+* lunar arc
+* satellite geometry
+* trajectory
+
+Symbols should remain **abstract and geometric**.
+
+---
+
+# 25. EXAMPLE UNIT BADGES
+
+## TPV — Hikone Defense Base
+
+**TPV**
+
+**117**
+
+**HIKONE**
+
+**DEFENSE BASE**
+
+Central symbol:
+
+**abstract fortress geometry**
+
+---
+
+## HRA — Izumo Coastal Base
+
+**HRA**
+
+**08**
+
+**IZUMO**
+
+**COASTAL BASE**
+
+Central symbol:
+
+**engineered horizon/wave geometry**
+
+---
+
+## ASC — Regional Air Command
+
+**ASC**
+
+**214**
+
+**AIR COMMAND**
+
+Central symbol:
+
+**upward interception vector**
+
+---
+
+## OSL — Orbital Logistics Station
+
+**OSL**
+
+**31**
+
+**ORBITAL LOGISTICS**
+
+Central symbol:
+
+**orbital node**
+
+---
+
+# 26. BADGE PLACEMENT
+
+### Left Chest
+
+**SDD Diamond Parallax Badge**
+
+Answers:
+
+> Who do you belong to?
+
+### Right Chest / Shoulder
+
+**Branch Badge**
+
+Answers:
+
+> Which branch?
+
+### Secondary Position
+
+**Unit Badge**
+
+Answers:
+
+> Which formation?
+
+### Collar / Shoulder
+
+**Rank Insignia**
+
+Answers:
+
+> What is your authority level?
+
+### Optional
+
+Qualification / specialization insignia.
+
+---
+
+# 27. FORMAL VS COMBAT BADGES
+
+## Formal
+
+Use physical metal insignia.
+
+Characteristics:
+
+* brushed silver
+* gunmetal
+* precision bevels
+* visible machining
+* controlled reflections
+
+## Combat
+
+Use a subdued version.
+
+Characteristics:
+
+* matte graphite
+* near-black
+* low reflectivity
+* simplified surface finish
+* minimal branch color
+
+The geometry remains identical.
+
+---
+
+# 28. IMAGE-GENERATION MASTER VISUAL STANDARD
+
+Whenever generating any SDD badge, use the following visual principles:
+
+**Perfect symmetry**
+
+**Diamond silhouette**
+
+**Four interlocking armored structures**
+
+**Central geometric void**
+
+**Layered construction**
+
+**Deep recessed channels**
+
+**Emerald material beneath the metal**
+
+**Gunmetal and brushed silver surfaces**
+
+**Sharp precision-machined edges**
+
+**Industrial military engineering**
+
+**Photorealistic hard-surface metal**
+
+**No heraldic ornamentation**
+
+**No cartoon styling**
+
+**No fantasy medieval design**
+
+**No unrelated logos**
+
+---
+
+# 29. FINAL CANON
+
+The SDD insignia system is now defined as follows:
+
+### MASTER
+
+**SDD Diamond Parallax Badge**
+
+Four visible armored structures surrounding a central void.
+
+### BRANCH
+
+The same badge architecture with a branch-specific internal core.
+
+### UNIT
+
+A standardized secondary formation badge using branch geometry, unit number and abstract unit symbol.
+
+### RANK
+
+Separate authority identifier.
+
+### VERDANT GUARD
+
+No public branch insignia.
+
+The classified fifth structure exists within the master badge itself and becomes visible only after authorized authentication.
+
+---
+
+# 30. CORE DESIGN PRINCIPLE
+
+The entire SDD visual system follows one principle:
+
+> **Four are visible. Five were always present.**
+
+The badge should never announce the secret.
+
+It should make the secret feel like it was **physically built into the organization from the beginning.**
+
+The new reference image is therefore the definitive visual foundation for every SDD insignia going forward:
+
+**four armored diamond structures + central void + recessed emerald architecture + precision-machined gunmetal construction.**
+
+**For future image generation, use the attached badge as the visual master reference.** The branch badges should be treated as *variations of this exact physical construction*, not redesigned from scratch.

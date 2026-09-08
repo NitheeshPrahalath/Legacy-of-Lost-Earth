@@ -1,0 +1,513 @@
+Create the **official master insignia of the fictional Sovereign Defense Directorate (SDD)**.
+
+Use the attached reference image as the **primary visual reference for the badge's physical appearance, proportions, geometry, material construction, layering, lighting behavior, and overall visual language**.
+
+The final result must look like the same badge design, not a reinterpretation into a different emblem.
+
+---
+
+## CORE FORM
+
+Design a **perfectly symmetrical vertical diamond-shaped military insignia**.
+
+The badge is a precision-engineered armored emblem approximately twice as tall as its central width.
+
+The outer silhouette consists of four extremely sharp points:
+
+* top point
+* right point
+* bottom point
+* left point
+
+The four points create a clean diamond silhouette.
+
+There is **no rounded shield shape**.
+
+There is **no circular outer ring**.
+
+There is **no traditional heraldic border**.
+
+There is **no decorative crest surrounding the badge**.
+
+The overall silhouette must remain severe, geometric and architectural.
+
+---
+
+## FOUR PRIMARY ARMOR ASSEMBLIES
+
+The badge is constructed around **four large interlocking metallic structures**, arranged symmetrically around the central void.
+
+Each structure occupies one directional quadrant:
+
+**NORTH — EAST — SOUTH — WEST**
+
+Each major structure should resemble a thick, angular piece of precision-machined armor.
+
+The four pieces must appear to physically converge toward the center while remaining separated by narrow recessed gaps.
+
+Each plate contains:
+
+* large planar metallic surfaces
+* deep bevels
+* sharp angular transitions
+* raised structural ridges
+* secondary recessed plates
+* precision-machined edges
+* dark separation channels
+* different levels of physical depth
+
+The geometry should feel **manufactured**, not sculpted or ornamental.
+
+---
+
+## CENTRAL VOID
+
+At the exact center of the badge is a **small, sharply defined dark geometric void**.
+
+The center must NOT contain a conventional symbol.
+
+Do not place:
+
+* a star
+* an eagle
+* a letter
+* a number
+* a globe
+* a skull
+* a sword
+* a national emblem
+
+The central void is intentionally empty.
+
+The four armored structures visually converge around this void.
+
+The center should be almost completely black, creating a strong contrast against the surrounding metallic surfaces.
+
+---
+
+## HIDDEN INTERNAL ARCHITECTURE
+
+Beneath the four primary metallic plates, place a second layer of dark translucent material.
+
+This internal layer is visible only through the narrow gaps between the armor structures.
+
+It produces a **deep emerald-green internal glow/reflection**.
+
+The green must appear to originate from **inside the badge**, not from paint or surface decoration.
+
+It should look like:
+
+**a classified internal authentication system embedded beneath the armor.**
+
+The emerald should be:
+
+* dark
+* muted
+* translucent
+* recessed
+* sophisticated
+* physically integrated
+* non-neon
+
+The green must never dominate the silver metal.
+
+The metallic armor remains the primary visual element.
+
+---
+
+## HIDDEN FIFTH STRUCTURE
+
+The badge represents four publicly visible SDD domains while secretly containing a fifth structure.
+
+Do NOT display an obvious fifth star.
+
+Do NOT create five equal sections.
+
+Do NOT place a literal five-point star anywhere.
+
+Instead, integrate the fifth structure **inside the central architecture**.
+
+In its normal state, the viewer should only perceive:
+
+**four major armored structures surrounding a central void.**
+
+The fifth structure should remain visually ambiguous and concealed within the layered geometry.
+
+It should appear to be physically present beneath the four visible structures.
+
+The secret must feel **engineered into the badge rather than added afterward**.
+
+---
+
+## PARALLAX CONSTRUCTION
+
+The badge uses layered geometry to create a strong **parallax effect**.
+
+The four major armor assemblies must sit at slightly different depths.
+
+When viewed directly:
+
+The badge reads as one unified geometric diamond.
+
+When viewed from a slight angle:
+
+* the layers separate visually
+* recessed channels become visible
+* the emerald internal material becomes more apparent
+* additional central geometry begins to emerge
+* the badge appears deeper and more mechanically complex
+
+The parallax effect must be produced by **actual layered construction**, not by a printed optical illusion.
+
+---
+
+## MATERIAL
+
+The primary material is **precision-machined dark silver and gunmetal**.
+
+The metal should resemble high-grade military/aerospace hardware.
+
+Use:
+
+* dark brushed steel
+* gunmetal
+* graphite metal
+* blackened steel
+* polished silver edge highlights
+
+The surfaces must contain subtle realistic machining imperfections.
+
+Include:
+
+* extremely fine scratches
+* directional brushing
+* microscopic surface texture
+* small manufacturing marks
+* controlled wear
+
+Do not make the metal mirror-polished.
+
+Do not make it chrome.
+
+Do not make it glossy like jewelry.
+
+It should look like **elite military hardware manufactured to extremely high tolerances**.
+
+---
+
+## EDGE TREATMENT
+
+All major plates have extremely sharp, clean machined edges.
+
+The outer edges should catch controlled highlights.
+
+The bevels should be clearly visible.
+
+The contrast should be:
+
+**dark metal body → bright machined edge → black recessed gap → emerald internal layer.**
+
+The edges should make the badge look physically manufactured from multiple pieces of metal.
+
+---
+
+## GEOMETRIC LANGUAGE
+
+The entire badge must use a consistent language of:
+
+* straight lines
+* sharp angles
+* triangular planes
+* narrow channels
+* controlled symmetry
+* architectural geometry
+* aerospace engineering
+* military hardware
+
+Avoid curves except where absolutely necessary for internal mechanical transitions.
+
+The design should feel like a fusion of:
+
+**advanced military armor + aerospace engineering + classified technology + sovereign military authority.**
+
+---
+
+## COLOR PALETTE
+
+Primary:
+
+**Gunmetal Black**
+
+Secondary:
+
+**Dark Graphite**
+
+Structural:
+
+**Brushed Dark Silver**
+
+Highlights:
+
+**Cold Brushed Silver**
+
+Recesses:
+
+**Near Black**
+
+Internal classified layer:
+
+**Deep Emerald Green**
+
+Suggested colors:
+
+Gunmetal Black — `#171B20`
+
+Military Graphite — `#30363D`
+
+Brushed Silver — `#A7ADB3`
+
+Near Black — `#090B0D`
+
+Deep Emerald — `#183A29`
+
+The emerald must remain dark and restrained.
+
+No bright green.
+
+No neon green.
+
+No fluorescent effects.
+
+---
+
+## OPTIONAL AUTHENTICATION STATE
+
+If generating the **authenticated/classified version**, preserve exactly the same physical badge.
+
+Do not redesign it.
+
+Instead, show the internal system becoming active.
+
+The emerald channels become slightly brighter.
+
+The hidden fifth geometry becomes more clearly visible inside the central architecture.
+
+A very subtle deep crimson trace may appear momentarily as the authentication transition.
+
+The final activated state should resolve into:
+
+**dark gunmetal + silver + muted emerald.**
+
+The crimson is an authentication response, not a permanent badge color.
+
+---
+
+## PROPORTIONS
+
+Maintain strict bilateral symmetry.
+
+The badge should have:
+
+* a sharp top point
+* a sharp bottom point
+* symmetrical left/right points
+* balanced upper and lower masses
+* a relatively compact central void
+* large metallic quadrant plates
+* narrow internal separation channels
+
+The four primary plates should dominate approximately **90% of the visible badge**.
+
+The recessed emerald architecture should remain secondary.
+
+The central void should be small but visually powerful.
+
+---
+
+## NO TEXT
+
+The master SDD badge must contain **no text**.
+
+Do not add:
+
+* SDD
+* Sovereign Defense Directorate
+* military numbers
+* Latin phrases
+* mottos
+* branch abbreviations
+* rank symbols
+
+This is the pure master insignia.
+
+---
+
+## NO EXTERNAL SYMBOLS
+
+Do not add:
+
+* eagle
+* lion
+* wolf
+* bird
+* skull
+* sword
+* rifle
+* tank
+* aircraft
+* ship
+* anchor
+* planet
+* rocket
+* laurel
+* crown
+* flag
+* stars
+* national symbols
+* religious symbols
+* fantasy symbols
+
+The identity comes entirely from the geometric construction.
+
+---
+
+## MOUNTING
+
+Show the badge mounted on **black military tactical fabric**.
+
+The fabric should be heavy, tightly woven and realistic.
+
+Use subtle stitching around the badge mounting area.
+
+The badge should appear securely attached to a modern military uniform or tactical plate carrier.
+
+Do not show the entire person.
+
+Keep the focus entirely on the insignia.
+
+---
+
+## CAMERA
+
+Extreme close-up product photography.
+
+Camera approximately perpendicular to the badge.
+
+The badge occupies most of the image.
+
+Slight perspective is acceptable, but maintain the badge's symmetrical geometry.
+
+Use shallow depth of field only on the surrounding fabric.
+
+The badge itself must remain extremely sharp.
+
+---
+
+## LIGHTING
+
+Use controlled cinematic studio lighting.
+
+Primary light:
+
+soft directional overhead/side light revealing the metal bevels.
+
+Secondary light:
+
+very subtle fill light.
+
+Internal emerald material:
+
+subtle self-illumination from beneath the metal.
+
+The emerald should illuminate the recesses but should NOT cast a large green glow onto the surrounding fabric.
+
+Use realistic reflections across the machined metal.
+
+The image should be dark overall while retaining excellent detail.
+
+---
+
+## PHOTOREALISM
+
+The result must look like a **real manufactured military insignia photographed in a professional studio**.
+
+It must NOT look like:
+
+* concept-art illustration
+* digital logo
+* vector graphic
+* fantasy emblem
+* plastic toy
+* game UI icon
+* superhero logo
+* cheap costume badge
+
+Prioritize:
+
+**photorealistic materials, physically believable construction, realistic shadows, realistic reflections, precision machining and convincing scale.**
+
+---
+
+## FINAL VISUAL IMPRESSION
+
+The finished badge should communicate:
+
+**absolute authority**
+
+**military precision**
+
+**technological superiority**
+
+**institutional power**
+
+**secrecy**
+
+**controlled violence**
+
+**advanced engineering**
+
+**hidden architecture**
+
+It should look like an insignia belonging to a military organization that possesses technology far beyond ordinary conventional forces.
+
+The badge should feel **cold, severe, expensive, classified and intimidating without becoming ornate.**
+
+---
+
+## MOST IMPORTANT VISUAL RULE
+
+The final image must preserve this exact visual hierarchy:
+
+**FOUR LARGE METALLIC ARMORED STRUCTURES**
+
+↓
+
+**NARROW BLACK RECESSED CHANNELS**
+
+↓
+
+**DARK EMERALD INTERNAL ARCHITECTURE**
+
+↓
+
+**CENTRAL BLACK GEOMETRIC VOID**
+
+↓
+
+**HIDDEN FIFTH STRUCTURE BURIED WITHIN THE CENTER**
+
+The viewer should immediately recognize the four-part diamond construction.
+
+The secret fifth structure should only become apparent after careful inspection or authenticated-state rendering.
+
+---
+
+## FINAL DESIGN STATEMENT
+
+**The SDD master insignia is a vertical diamond formed by four interlocking precision-machined armored structures surrounding a central void, with a concealed emerald internal architecture beneath the metal.**
+
+It is not a traditional emblem.
+
+It is a piece of military technology.
+
+**Four are visible. Five were always present.**
