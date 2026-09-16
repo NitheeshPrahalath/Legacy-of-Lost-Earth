@@ -65,6 +65,32 @@ Now\...
 It was almost completely abandoned.
 
 Grass grew through cracks in the surface.
+'(
+01. V-TEK “DRIFTER” Mk. II
+
+The Drifter is a small, rugged hover-bike built for ordinary workers. Its body is compact and heavily reinforced, with exposed mechanical sections and angular armor plates. The front is narrow and aggressive, while the rear carries a bulky utility compartment. Its worn metal finish and practical construction give it the appearance of a machine that can survive almost anything.
+
+02. TORRENT-8
+
+The Torrent-8 is larger and much heavier than the Drifter. Its front section resembles a compact industrial hauler, with thick armor surrounding the cockpit and bright headlights cutting through the dark bodywork. A long cargo platform stretches behind it, giving the vehicle a powerful, workhorse-like silhouette. Everything about its design looks functional and durable.
+)' - use this for vehicle  of aero-strikers refernce, describe these as vehciels that kael looks at, just give a simple text on how it looks abandoned with moss covering it.
+'(
+    01. V-TEK “HAB-CRAWLER” Micro-Van
+
+The Hab-Crawler is a small, boxy vehicle built with practicality in mind. Its front is heavily enclosed with a large dark windshield, while the body is covered in flat metal panels and reinforced edges. Small amber lights and exposed mechanical sections give it an industrial appearance. It looks like a vehicle designed to work all day without attracting attention.
+
+02. TORRENT “NOMAD”
+
+The Nomad has the familiar shape of a futuristic luxury car. Its front slopes smoothly into a long, aerodynamic body, with sharp headlights and a low roofline. The silver-gray exterior is clean and polished, while the dark windows and wheels give it a sporty character. It looks fast without being overly aggressive.
+
+03. ATLAS “BEHEMOTH” Cargo-Lifter
+
+The Behemoth is massive and heavily built. Its front resembles a reinforced industrial cabin, while the enormous body behind it is made from several large armored sections. Thick structural frames, cargo panels, lights, and mechanical components cover its exterior. It looks less like a normal vehicle and more like a moving piece of heavy machinery.
+
+04. OMNI-TRANSIT “LEVIATHAN”
+
+The Leviathan is a long, imposing public-transit cruiser. Its large glass sections dominate the front and sides, surrounded by a dark structural frame. Bright blue lighting runs along the lower edges and around the front, giving the otherwise industrial vehicle a clean futuristic identity. It has the unmistakable appearance of something designed to carry entire crowds.
+)' - use this for vehicle  of aero-strikers refernce, describe these as vehciels that kael looks at, just give a simple text on how it looks abandoned with moss covering it. mention only few of these vehicles.
 
 A few abandoned vehicles sat motionless along the roadside, their
 surfaces covered in a thin layer of dust.
@@ -79,7 +105,7 @@ There was no traffic.
 
 No pedestrians.
 
-No Aero-Striders flying overhead.
+No Aero-Striders or Aero-Cruisers flying overhead.
 
 Not even a maintenance drone.
 
@@ -333,4 +359,4 @@ Kael noticed several wheel trails left on the road where Cherry meowed from, no 
 
 \"Excatly, But we should be careful, if people have vacated this place, it can only mean that the people here faced danger and were immedialtely alerted to move to a safe zone.\"
 
-Soon Kael followed the trail into the town, as he went deeper into the town He saw several unrecognisable remains scavaged by mutated animals and rotten, it was clearly human remains and from the remains of the clothes attached to it, they were from the Sovereign Defense Directorate. The  
+Soon Kael followed the trail into the town, as he went deeper into the town He saw several unrecognisable remains scavaged by mutated animals and rotten, it was clearly human remains and from the remains of the clothes attached to it, they were from the Sovereign Defense Directorate. The  sight was gruesome.
