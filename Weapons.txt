@@ -46,6 +46,97 @@ Firearms in the traditional sense (chemical propellant, gunpowder-based) were ph
 * **Performance:** Delivers a disabling electric shock on contact; can be lethal against unarmored humans, but is more commonly used to stagger or disorient low-tier mutated wildlife before a follow-up strike.
 * **Notes:** Standard-issue for retired/reserve Sovereign Defense Directorate personnel and corporate security. Durable and low-maintenance compared to pulse-based weapons, which is likely why it's still functional a month post-Awakening.
 
+### Non-Lethal Sonic Cannon (Mounted — Aegis "Interceptor" Mk-IV / "Bastion")
+* **Status:** Background canon (Vehicles Fleet — TPV law-enforcement striders)
+* **Classification:** Forward-facing directed sonic weapon, vehicle-mounted.
+* **Power Source:** Integrated with the host strider's dual solid-state hydrogen cells.
+* **Performance:** Non-lethal area-disabling blast designed to stop fleeing suspects and disperse riots without ballistic damage. Optimized for pursuit, not lethal combat.
+
+---
+
+## 2A. NON-ENERGY / MECHANICAL & CHEMICAL CLASS (Grid-Independent)
+
+*The grid-independent class: weapons that function entirely without capacitor cells, power grids, or recharge infrastructure. In a post-Awakening world where every energy weapon is a depleting resource, these remain functional indefinitely — limited only by ammo, maintenance, and the wielder's strength. The class splits into Muscle-Power (mechanical), Spring/Pneumatic (pre-charged), and Chemical/Biological (venom, acid, fire).*
+
+### Monster-Bone Spear / Lance (Kael's Upgrade Path)
+* **Status:** Mechanical — recommended in-story upgrade for Kael's Grade 1 alloy spear.
+* **Materials Tier:** Weapon Grade 1–2 base; upgrades to Grade 2+ once a 🔵★-tier monster-bone tip is socketed.
+* **Notes:** The natural no-energy upgrade to Kael's existing weapon — bone tips maintain edge far longer than alloy, and later core socketing can push it into Grade 4+ without adding any energy requirement.
+
+### Composite Bow & Monster-Sinew Crossbow
+* **Classification:** Muscle-powered ballistic; mechanical energy storage.
+* **Materials Tier:** Grade 1–2 (alloy/wood frame, monster-sinew string).
+* **Performance:** Silent, reusable, and accurate to medium range; bolts tipped with bone shards or, later, monster cores for penetration.
+* **Notes:** The classic hunter's answer in this class. A crossbow variant suits newcomers or wounded characters who lack draw strength.
+
+### Throwing Harpoon (Hand- or Pump-Operated)
+* **Classification:** Muscle-powered heavy projectile / anchor-line weapon.
+* **Purpose:** Engages mid-tier beasts (~★5–10) without closing to melee; doubles as a hauling and rope/winch tool.
+* **Notes:** Manual or pump-primed for repeat capability; useful for hunting and for "reeling in" downed prey or carted cargo.
+
+### Atlatl (Spear-Thrower)
+* **Classification:** Muscle-powered mechanical extension.
+* **Purpose:** Extends javelin/spear throw range by ~2–3x with minimal bulk.
+* **Notes:** Low-tech, near-zero maintenance; good for ambushes and volley fire from a defensive position.
+
+### Chain-Flail / Bident / Hook-Bill (Halberd)
+* **Classification:** Muscle-powered melee, anti-beast kit.
+* **Performance:** Hooks and bills bite into hide and hold distance from claws; flail adds momentum damage that doesn't rely on sharp edges (useful against armored hide).
+* **Notes:** Favored where energy melee isn't available and edge-tools blunt too fast.
+
+### Chakram / Throwing Ring, Garrote, Weighted Sling
+* **Classification:** Muscle-powered silent weapons.
+* **Purpose:** Quiet, zero-maintenance kills — capture, execution, or close ambush without noise or energy signature.
+* **Notes:** The garrote and sling double as scavenging/tool gear; chakrams are excellent stealth-projectiles in vaulted interiors.
+
+### Spring-Piston Air Rifle ("Legacy Tech That Still Works")
+* **Classification:** Spring/Pneumatic ballistic; fully mechanical, multi-pump.
+* **Power Source:** None — stored spring/pneumatic energy only; no battery, no capacitor, no grid.
+* **Performance:** Pre-Awakening refinement, silent enough for stealth, lethal to low-tier wildlife at close range.
+* **Notes:** A realistic legacy weapon that survives the energy transition — ideal "functional relic" piece for ex-SDD or retired-personnel hands.
+
+### Wind-Up Crossbow Repeater (Clockwork Magazine)
+* **Classification:** Spring/Pneumatic mechanical repeater.
+* **Performance:** 4–5 bolt bursts per winding; trades range for volume of fire.
+* **Notes:** Fits the 2120 automation aesthetic — a pre-Awakening automated weapon that needs no power, just winding.
+
+### Compressed-Air Dart Thrower
+* **Classification:** Spring/Pneumatic; delivery system for chemical payloads.
+* **Purpose:** Fires venoms, anesthetics, or caustic darts instead of conventional projectiles — effective against beasts by payload rather than kinetic force.
+* **Notes:** The "capture tool" of the set; poison does the work the metal can't.
+
+### Monster-Venom Darts & Coated Blades
+* **Classification:** Chemical/Biological; harvested from mutated wildlife.
+* **Materials Tier:** Grade 1–2 base, payload-dependent.
+* **Performance:** The poison — not the metal — does the damage; bypasses hide where kinetic force fails.
+* **Notes:** Ties directly into scavenging loops: kill a beast, harvest its venom, weaponize it. Reinforces the Viraya-economy theme.
+
+### Caustic "Beast-Acid" Projectiles / Thrown Flasks
+* **Classification:** Chemical/Biological.
+* **Performance:** Viraya-corrosive compounds burn through hardened hide where blades and pulses fail.
+* **Notes:** Armor-ignoring damage vs. armored wildlife; dangerous to the wielder too — a risk-reward scavenger tool.
+
+### Incendiary Line & Flame Siphons (Fire-Pumps)
+* **Classification:** Chemical ignition; no electronics.
+* **Performance:** Fire is one of the few things low- and mid-tier mutated wildlife respects early on; area denial, panic, and beast-drive tool.
+* **Notes:** No energy cells, only chemical fuel — renewable through scavenging and refinery salvage.
+
+### Man-Portable Ballista ("GIANT-BREAKER")
+* **Classification:** Muscle-powered siege piece.
+* **Construction:** Scavenged crane-cable + monster-sinew torsion; club-built.
+* **Purpose:** Man-portable siege weapon for fortress defense and anti-large-beast volleys.
+* **Notes:** A build-anchor for future faction/fortress arcs — mechanically complex, needs crew, but needs no power.
+
+### Mechanical Grapple-Hook
+* **Classification:** Mechanical utility/weapon hybrid.
+* **Purpose:** Climbing, drone crippling, vaulted interior traversal — already used in-story; weaponized in confined spaces.
+* **Notes:** In-story canon utility (drone capture at Mount Myōken) with offensive potential.
+
+### IRIS-Guided Weighted Net / Bolas
+* **Classification:** Mechanical capture weapon.
+* **Purpose:** IRIS computes release timing and trajectory for a purely mechanical capture tool — netting or entangling a target without energy.
+* **Notes:** Unique AI-assisted spin on a no-power weapon; reinforces IRIS's value as guidance without energy.
+
 ---
 
 ## 3. SOVEREIGN DEFENSE DIRECTORATE — STANDARD ARMAMENT (TPV / HRA / ASC)
@@ -68,6 +159,35 @@ Firearms in the traditional sense (chemical propellant, gunpowder-based) were ph
 
 ---
 
+## 3A. SDD AUTONOMOUS & FORTIFICATION SYSTEMS (TPV / ASC / OSL)
+
+### SDD Perimeter Patrol Drones (Autonomous Swarm Unit)
+* **Purpose:** Automated perimeter surveillance and intruder elimination around restricted sectors and Sovereign facilities.
+* **Description:** Matte-black, light-absorbent armor; each unit measures roughly fifty centimeters across and carries a high-resolution optical camera, LiDAR scanner, thermal sensors, plus compact pulse weapons calibrated to eliminate unauthorized intruders. Drones operate as autonomous swarms, continuously sharing telemetry with every unit in their patrol sector.
+* **Notes:** In-story canon (chapter 20) — the swarm defending Mount Myōken's inner perimeter was circumvented by capturing a single drone and exploiting its trusted communication protocols. Defeated by disruption of its propulsion rotor rather than firepower.
+
+### TPV Autonomous Quadruped Weapon Platforms
+* **Purpose:** Unmanned ground attack and anti-armor support for TPV frontier brigades.
+* **Description:** Heavy quadruped armor walkers mounting integrated pulse armament, deployed alongside exoskeleton-clad infantry for border defense.
+* **Notes:** Military-file canon (TPV equipment roster). Platform-level system; no fixed model designation yet established.
+
+### ASC High-Altitude Drone Swarms
+* **Purpose:** Persistent atmospheric surveillance and long-range strike support.
+* **Description:** Coordinated swarms operating above conventional intercept envelope, providing the Air Sovereignty Command with continuous airspace coverage.
+* **Notes:** Military-file canon (ASC equipment roster). Complements manned hypersonic interceptors.
+
+### ASC Hypersonic Interceptors
+* **Purpose:** Atmospheric interception of hostile aircraft, missiles, and trans-atmospheric threats.
+* **Description:** Manned rapid-response aircraft designed to close intercepts at hypersonic speeds; line backbone of ASC atmospheric defense.
+* **Notes:** Military-file canon (ASC equipment roster). Fastest conventional-response element in the SDD order of battle.
+
+### OSL Orbital Kinetic Platforms
+* **Purpose:** Space-based strategic strike and ICBM defense support.
+* **Description:** Deployed orbital platforms carrying kinetic and defensive armament; coordinate with the SDD satellite grid for global reach.
+* **Notes:** Military-file canon (OSL equipment roster). Strategic layer; no in-story use yet.
+
+---
+
 ## 4. VERDANT GUARD — SPECIAL OPERATIONS CLASS (Restricted / Tier 1)
 
 ### "Wraithblade" Adaptive Combat Knife
@@ -83,7 +203,26 @@ Firearms in the traditional sense (chemical propellant, gunpowder-based) were ph
 
 ---
 
-## 5. THE 27 ANCIENT BEASTS — WEAPON MATERIAL INTERACTION
+## 5. STRATEGIC / WEAPONS OF LAST RESORT (Pre-Awakening Arsenal)
+
+### Nuclear Weapons
+* **Status:** In-story canon (Prelude — the failed counteroffensive)
+* **Description:** The pre-Awakening arsenal of last resort. Deployed over the Ancient Beasts' domains after long negotiations failed, and proved utterly ineffective — the target Beasts were unharmed.
+* **Notes:** Reinforces the series' core futility theme (cross-referenced in Legacy Firearms): pre-Awakening strategic firepower cannot scale against Viraya-mutated entities. Only Weapon Grade 6+ material from the 27 Ancient Beasts themselves can advance human firepower beyond its current ceiling.
+
+### SDD "City-Killer" Strategic Arsenal (Referenced)
+* **Status:** Referenced in-story (chapter 19 — Iris: "They possess weapons capable of destroying cities.")
+* **Description:** Classified SDD strategic weapons described as city-destroying in scale; the upper register of the Sovereign Defense Directorate's deterrent stockpile.
+* **Notes:** Undefined in capability and yield — deliberate ambiguity for future escalation. If conventional pulse weapons and combat machines failed against the Giant Tree, any city-killer usage would also be presumed inadequate, but the scale of its deployment would end entire regions as a consequence.
+
+### Combat Machines & Heavy Explosives
+* **Status:** In-story canon (chapter 19 — the SDD assault on the Giant Tree)
+* **Description:** The combined-arms arsenal the SDD brought to bear against the Giant Tree: pulse weapons, autonomous combat machines, and explosives. Collectively failed to damage even a single leaf.
+* **Notes:** Demonstrates the hard power ceiling of 2120 human firepower against top-tier Viraya entities.
+
+---
+
+## 6. THE 27 ANCIENT BEASTS — WEAPON MATERIAL INTERACTION
 
 *Cross-reference: Master Lore Registry, Section 5a (Weapon Grades) and Section 4 (The 27 Ancient Beasts).*
 

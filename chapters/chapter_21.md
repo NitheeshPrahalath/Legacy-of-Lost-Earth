@@ -1,9 +1,8 @@
 # Chapter 21
 
-**Mount Myōken, Hyōgo \| October 15, 2120 \| 10:30**
+**Foothills of Mount Myōken, Hyōgo \| October 15, 2120 \| 12:30**
 
-A little beyond the foothills of Mount Myōken, a town appeared on the
-horizon.
+A little beyond the foothills of Mount Myōken, a town appeared on the horizon.
 
 Kael stopped walking.
 
@@ -11,14 +10,13 @@ Cherry stopped with him.
 
 For several seconds, neither of them moved.
 
-A gentle wind passed through the tall grass, carrying the faint rustling
-sound across the open landscape.
+A gentle wind passed through the tall grass, carrying a faint rustling sound across the open landscape.
 
 Kael narrowed his eyes.
 
 Something stood beyond the distant hills.
 
-At first, he wasn\'t entirely certain what he was looking at.
+At first, he wasn't entirely certain what he was looking at.
 
 The structure was too far away.
 
@@ -30,108 +28,61 @@ A town.
 
 Kael stared at it silently.
 
-After spending a month inside Mount Myōken, the sight of human
-civilization felt strangely unfamiliar.
+After spending an entire month inside Mount Myōken, the sight of human civilization felt strangely unfamiliar.
 
-He had almost forgotten what it was like to see buildings that weren\'t
-abandoned ruins or structures being swallowed by nature.
+He had almost forgotten what it was like to see buildings that weren't abandoned ruins or structures being swallowed by nature.
 
-\"How far is it from our current location?\"
+"How far is it from our current location?"
 
 Iris answered immediately.
 
-\"Approximately four kilometers.\"
+"Approximately four kilometers."
 
 Kael nodded.
 
-\"Four kilometers\...\"
+"Four kilometers..."
 
 He adjusted the spear resting against his shoulder.
 
-\"Let\'s go.\"
+"Let's go."
 
 He began walking.
 
 Cherry followed closely beside him.
 
-A short distance later, they discovered an elevated roadway that led
-toward the distant settlement.
+A short distance later, they discovered an elevated roadway that led toward the distant settlement.
 
-The road had once been designed to connect the town with the surrounding
-cities.
+The road had once been designed to connect the town with the surrounding cities.
 
-Now\...
+Now...
 
 It was almost completely abandoned.
 
 Grass grew through cracks in the surface.
-'(
-01. V-TEK “DRIFTER” Mk. II
 
-The Drifter is a small, rugged hover-bike built for ordinary workers. Its body is compact and heavily reinforced, with exposed mechanical sections and angular armor plates. The front is narrow and aggressive, while the rear carries a bulky utility compartment. Its worn metal finish and practical construction give it the appearance of a machine that can survive almost anything.
+A few abandoned vehicles sat motionless along the roadside, their bodies covered in dust and patches of green moss.
 
-02. TORRENT-8
+Kael slowed down as he passed them.
 
-The Torrent-8 is larger and much heavier than the Drifter. Its front section resembles a compact industrial hauler, with thick armor surrounding the cockpit and bright headlights cutting through the dark bodywork. A long cargo platform stretches behind it, giving the vehicle a powerful, workhorse-like silhouette. Everything about its design looks functional and durable.
-)' - use this for vehicle  of aero-strikers refernce, describe these as vehciels that kael looks at, just give a simple text on how it looks abandoned with moss covering it.
-'(
-    01. V-TEK “HAB-CRAWLER” Micro-Van
+One was a compact hover-bike with a narrow front and angular armor plates. Moss had grown across its mechanical sections, partially covering the worn metal.
 
-The Hab-Crawler is a small, boxy vehicle built with practicality in mind. Its front is heavily enclosed with a large dark windshield, while the body is covered in flat metal panels and reinforced edges. Small amber lights and exposed mechanical sections give it an industrial appearance. It looks like a vehicle designed to work all day without attracting attention.
+Farther ahead, an abandoned Aero-Cruiser lay beside the road, its sleek body almost completely hidden beneath vines and moss.
 
-02. TORRENT “NOMAD”
+Another much larger vehicle had been pushed toward the edge of the roadway.
 
-The Nomad has the familiar shape of a futuristic luxury car. Its front slopes smoothly into a long, aerodynamic body, with sharp headlights and a low roofline. The silver-gray exterior is clean and polished, while the dark windows and wheels give it a sporty character. It looks fast without being overly aggressive.
-
-03. ATLAS “BEHEMOTH” Cargo-Lifter
-
-The Behemoth is massive and heavily built. Its front resembles a reinforced industrial cabin, while the enormous body behind it is made from several large armored sections. Thick structural frames, cargo panels, lights, and mechanical components cover its exterior. It looks less like a normal vehicle and more like a moving piece of heavy machinery.
-
-04. OMNI-TRANSIT “LEVIATHAN”
-
-The Leviathan is a long, imposing public-transit cruiser. Its large glass sections dominate the front and sides, surrounded by a dark structural frame. Bright blue lighting runs along the lower edges and around the front, giving the otherwise industrial vehicle a clean futuristic identity. It has the unmistakable appearance of something designed to carry entire crowds.
-)' - use this for vehicle  of aero-strikers refernce, describe these as vehciels that kael looks at, just give a simple text on how it looks abandoned with moss covering it. mention only few of these vehicles.
-
-A few abandoned vehicles sat motionless along the roadside, their
-surfaces covered in a thin layer of dust.
-
-Kael slowed down.
-
-He looked around.
-
-Something felt wrong.
-
-There was no traffic.
-
-No pedestrians.
-
-No Aero-Striders or Aero-Cruisers flying overhead.
-
-Not even a maintenance drone.
-
-Kael glanced at the abandoned vehicles.
-
-\"Could the town have been evacuated?\"
-
-\"It is possible.\"
-
-\"Can you detect any communication signals?\"
-
-"Not from our current location, we need to move closer."
-
-Kael continued forward.
+Kael looked at them for a moment before continuing.
 
 Neither he nor Cherry actively searched for mutated animals.
 
 There was no reason to waste energy.
 
-But whenever a creature attacked them\...
+But whenever a creature attacked them...
 
 They killed it.
 
 A mutated fox suddenly lunged toward Cherry.
 
-Kael\'s hand moved instinctively toward his spear.
+Kael's hand moved instinctively toward his spear.
 
 Then he stopped.
 
@@ -143,18 +94,31 @@ She reappeared behind it.
 
 The fox collapsed before Kael even had time to draw his weapon.
 
-A mutated bird descended from the sky.
+Kael stared at Cherry.
 
-Kael\'s spear pierced it before it could reach him.
+"You didn't even give me a chance."
 
-The forest had taught him that survival was not about killing everything
-that moved.
+Cherry proudly flicked her tail.
 
-It was about knowing when to fight.
+"Meow."
+
+Kael shook his head with a faint smile.
+
+"Show-off."
+
+A mutated bird suddenly descended from the sky.
+
+Kael's spear flashed upward.
+
+The bird was pierced before it could reach him.
+
+The forest had taught Kael that survival wasn't about killing everything that moved.
+
+It was about knowing when to fight...
 
 And when to walk away.
 
-After nearly an hour of traveling\...
+After nearly an hour of traveling...
 
 They finally reached the outskirts of the town.
 
@@ -162,164 +126,149 @@ Kael stopped.
 
 He stared in silence.
 
-The buildings were clearly visible now. Some windows were broken, while
-others remained perfectly intact. There were no visible fires, no signs
-of large-scale destruction, and nothing to suggest that a battle had
-taken place recently.
+The buildings were clearly visible now.
 
-The town looked as though everyone had simply\...
+Some windows were broken, while others remained perfectly intact.
+
+There were no visible fires.
+
+No signs of large-scale destruction.
+
+Nothing suggested that a major battle had taken place recently.
+
+The town looked as though everyone had simply...
 
 Left.
 
-Yet the first thing Kael noticed was that the town itself wasn\'t what
-he had expected.
+Yet the first thing Kael noticed was that the town itself wasn't what he had expected.
 
-Several tall buildings rose above the surrounding landscape, separated
-from one another by wide stretches of greenery, roads, and elevated
-walkways. Unlike the tightly packed megacities Kael had grown up seeing,
-this place had been designed with space in mind.
+Several tall buildings rose above the surrounding landscape, separated from one another by wide stretches of greenery, roads, and elevated walkways.
 
-The structures stood independently across the landscape, their sleek
-facades of glass, polished alloy, and pale stone reflecting the
-afternoon sunlight. Even from this distance, Kael could make out thin
-skybridges connecting some of the taller buildings, while translucent
-walkways stretched between elevated terraces.
+Unlike the tightly packed megacities Kael had grown up seeing, this place had been designed with space in mind.
 
-Patches of greenery covered rooftops and balconies, softening the sharp
-lines of the architecture. Some buildings even appeared to have entire
-vertical gardens growing along their exterior walls.
+The structures stood independently across the landscape, their sleek facades of glass, polished alloy, and pale stone reflecting the afternoon sunlight.
+
+Even from this distance, Kael could make out thin skybridges connecting some of the taller buildings, while translucent walkways stretched between elevated terraces.
+
+Patches of greenery covered rooftops and balconies, softening the sharp lines of the architecture.
+
+Some buildings even appeared to have entire vertical gardens growing along their exterior walls.
 
 It was strangely beautiful.
 
-And yet, there wasn\'t a single person in sight.
+And yet...
 
-Kael staring at the town.
+There wasn't a single person in sight.
 
-\"Could the been people have evacuated by  a defense force?\"
+Kael stared at the town.
 
-Iris didn\'t answer immediately.
+"Could the people have been evacuated by a defense force?"
+
+Iris didn't answer immediately.
 
 Kael turned his head slightly.
 
-\"Iris?\"
+"Iris?"
 
-\"It is possible.\"
-
-\"Possible isn\'t very useful.\"
-
-\"I am aware.\"
+"It is possible."
 
 Kael sighed.
 
 He looked back toward the distant buildings.
 
-\"Since this town is so close to Mount Myōken, there should have been
-Sovereign Defense Directorate forces stationed here, right?\"
+"Since this town is so close to Mount Myōken, there should have been Sovereign Defense Directorate forces stationed here, right?"
 
-\"If so, the town should have some level of protection.\"
+"If so, the town should have some level of protection."
 
-\"Even if they couldn\'t completely defend it\...\"
+"Even if they couldn't completely defend it..."
 
-\"There should at least be some surviving defense personnel.\"
+"There should at least be some surviving defense personnel."
 
 Iris remained silent for several seconds.
 
-\"Kael\...\"
+"Kael..."
 
-\"Do not place too much hope in that possibility.\"
+"Do not place too much hope in that possibility."
 
-Kael\'s expression changed slightly.
+Kael's expression changed slightly.
 
-\"Why?\"
+"Why?"
 
-\"This town is located extremely close to the Mount Myōken mutation
-zone.\"
+"This town is located extremely close to the Mount Myōken mutation zone."
 
-\"During the first several days following the Awakening, the entire
-nation experienced widespread electrical disruptions.\"
+"During the first several days following the Awakening, the entire nation experienced widespread electrical disruptions."
 
-\"That disruption could have affected the containment systems
-surrounding the mountain.\"
+"That disruption could have affected the containment systems surrounding the mountain."
 
-Kael\'s eyes narrowed.
+Kael's eyes narrowed.
 
 Iris continued.
 
-\"If that occurred, mutated animals may have escaped the forest through
-multiple routes.\"
+"If that occurred, mutated animals may have escaped the forest through multiple routes."
 
-\"Once outside the containment zone, they could have reached nearby
-settlements.\"
+"Once outside the containment zone, they could have reached nearby settlements."
 
-\"That could explain why we encountered no Sovereign Defense forces
-during our journey.\"
+"That could explain why we encountered no Sovereign Defense forces during our journey."
 
 Kael looked back toward the energy barrier behind them.
 
-\"Now that you mention it\...\"
+"Now that you mention it..."
 
-\"We never encountered any defense forces even after crossing Mount
-Myōken\'s perimeter.\"
+"We never encountered any defense forces even after crossing Mount Myōken's perimeter."
 
 His gaze returned to the town.
 
-\"Does that mean they all withdrew to this town?\"
+"Does that mean they all withdrew to this town?"
 
-\"It is possible.\"
+"It is possible."
 
-\"How likely?\"
+"How likely?"
 
-\"I would estimate the probability to be relatively high.\"
+"I would estimate the probability to be relatively high."
 
-Kael\'s eyes brightened slightly.
+Kael's eyes brightened slightly.
 
-\"But\...\"
+"But..."
 
-Iris\'s voice immediately brought him back to reality.
+Iris's voice immediately brought him back to reality.
 
-\"The probability of them surviving is considerably lower.\"
+"The probability of them surviving is considerably lower."
 
-Kael\'s expression became serious.
+Kael's expression became serious.
 
-\"Think about what you encountered during your journey through Mount
-Myōken.\"
+"Think about what you encountered during your journey through Mount Myōken."
 
-\"Even the weakest mutated creatures you encountered were several times
-stronger than an ordinary human.\"
+"Even the weakest mutated creatures you encountered were several times stronger than an ordinary human."
 
-\"Some were more than twenty times stronger.\"
+"Some were more than twenty times stronger."
 
-\"Now consider the average Sovereign Defense soldier.\"
+"Now consider the average Sovereign Defense soldier."
 
-\"Even if they were equipped with pulse rifles and advanced military
-equipment\...\"
+"Even if they were equipped with pulse rifles and advanced military equipment..."
 
-\"They would still be fighting creatures capable of tearing apart
-armored vehicles.\"
+"They would still be fighting creatures capable of tearing apart armored vehicles."
 
 Kael remained silent.
 
 Iris continued.
 
-\"Furthermore, the mutation does not appear to be limited to individual
-creatures.\"
+"Furthermore, the mutation does not appear to be limited to individual creatures."
 
-\"The longer the outbreak continues\...\"
+"The longer the outbreak continues..."
 
-\"\...the more powerful the surrounding ecosystem becomes.\"
+"...the more powerful the surrounding ecosystem becomes."
 
-\"New mutations continue to emerge, and some creatures appear to be
- growing stronger over time.\"
+"New mutations continue to emerge, and some creatures appear to be growing stronger over time."
 
 Kael looked toward the distant town.
 
-\"So you\'re saying\...\"
+"So you're saying..."
 
-\"If the defense forces were here\...\"
+"If the defense forces were here..."
 
-\"\...they may have already been overwhelmed.\"
+"...they may have already been overwhelmed."
 
-\"That is one possibility.\"
+"That is one possibility."
 
 Kael tightened his grip around his spear.
 
@@ -327,7 +276,7 @@ Another possibility entered his mind.
 
 The town could be completely empty.
 
-Or worse\...
+Or worse...
 
 The people inside could have become trapped.
 
@@ -337,26 +286,526 @@ Running out of food.
 
 Running out of ammunition.
 
-Waiting for help that would never come.
+Waiting for help that might never come.
 
-Waiting for help that would might never come.
+Kael started moving toward the town.
 
-Kael started  moving towards the town.
+Cherry followed.
 
-They soon discovered that nearly all the buildings and minor damages.
+---
 
-Somewhat broken Windows some was broken tiles, few Aero-striders and Aero-cruisers seemed to pushed to the edge off the roadway.
+As they moved deeper into the outskirts, they began noticing signs that something had happened here.
 
-\"Looks like something pushed aside all these aero-striders and Aero-cruisers.\"
+Several buildings had suffered minor damage.
 
-Cherry jumped from Kael's shoulders and meowed as if wantedly calling Kael's attention.
+Windows were broken.
 
-Kael noticed several wheel trails left on the road where Cherry meowed from, no vehicle that Kael knows could leave a mark. These trails seem to come from the mountain ranges of Mount Myoken. These trails continue into the town.
+Tiles had fallen from rooftops.
 
-\"Kael these trails are from a Military Vehicle generally called - High Mobility Vehicle that was used during the great war 100 years ago. I think the defense forces around the Mount Myoken found this in their base and used it to escape to this town.\"
+Some sections of the road were cracked.
 
-\"Iris if what you told is true dosn\'t that mean that there is a Sovereign Defense Directorate force here and we can reach their base if we follow this trail.\"
+But there was no sign of a large-scale battle.
 
-\"Excatly, But we should be careful, if people have vacated this place, it can only mean that the people here faced danger and were immedialtely alerted to move to a safe zone.\"
+Then Kael noticed something else.
 
-Soon Kael followed the trail into the town, as he went deeper into the town He saw several unrecognisable remains scavaged by mutated animals and rotten, it was clearly human remains and from the remains of the clothes attached to it, they were from the Sovereign Defense Directorate. The  sight was gruesome.
+Several Aero-Striders and Aero-Cruisers had been pushed toward the edges of the roadway.
+
+Some had been forced against walls.
+
+Others had been pushed onto patches of grass.
+
+One large vehicle had even been overturned.
+
+Kael stopped.
+
+"Looks like something pushed all these vehicles aside."
+
+Cherry suddenly jumped from Kael's shoulders.
+
+"Meow!"
+
+She ran several meters ahead before stopping and looking back at him.
+
+Kael followed her gaze.
+
+Several strange marks ran across the road.
+
+He crouched down and touched one of the impressions.
+
+Kael had never seen such marks in his lifetime.
+
+"Cherry..."
+
+He looked toward the direction of the tracks.
+
+They continued toward the town.
+
+But the opposite end disappeared toward the distant mountains.
+
+"These tracks..."
+
+She displayed an image of an old military vehicle.
+
+"These are tracks left by a High Mobility Vehicle."
+
+Kael looked at the hologram.
+
+"A military vehicle?"
+
+"Correct."
+
+"These vehicles were widely used by military forces during the Great War."
+
+Kael looked back toward the tracks.
+
+"So what are they doing here?"
+
+"I believe the Sovereign Defense forces stationed around Mount Myōken discovered several of these vehicles in one of their old military facilities."
+
+"They may have used them to evacuate toward this town."
+
+Kael's eyes sharpened.
+
+"If that's true..."
+
+"Then there really were Sovereign Defense forces here."
+
+"Correct."
+
+"And if they came here..."
+
+Kael followed the tracks with his eyes.
+
+"...then we should be able to find where they went."
+
+"Exactly."
+
+Iris paused.
+
+"But we should remain cautious."
+
+"If the defense forces evacuated this area, they must have had a reason."
+
+Kael nodded.
+
+They followed the tracks deeper into the town.
+
+The farther they went...
+
+The worse the signs became.
+
+At first, they found only scattered debris.
+
+Then...
+
+Kael saw something lying beside the road.
+
+He stopped.
+
+His expression changed.
+
+A human skeleton.
+
+Most of the body had been scavenged.
+
+The bones were stained dark from exposure, while pieces of burned and torn clothing still clung to the remains.
+
+A fragment of a black coat remained around one shoulder.
+
+A small silver insignia was still attached to the fabric.
+
+Kael recognized it immediately.
+
+"Sovereign Defense Directorate..."
+
+Cherry's ears lowered.
+
+Kael looked around.
+
+Another body lay several meters away.
+
+Then another.
+
+And another.
+
+Some had been dragged away.
+
+Others were partially buried beneath rubble.
+
+Many had been burned so badly that only fragments of their uniforms remained.
+
+But the same black fabric appeared again and again.
+
+Most of the corpses belonged to SDD personnel.
+
+The sight was gruesome.
+
+Kael's expression hardened.
+
+"Iris..."
+
+He looked down the road.
+
+"Almost every body we've encountered belongs to the Sovereign Defense Directorate."
+
+"Could it be that they escorted the civilians out..."
+
+"...and stayed behind to protect them?"
+
+Iris didn't answer immediately.
+
+"Kael."
+
+"What?"
+
+"I've been attempting to locate a communication signal since we entered the town."
+
+Kael turned toward her.
+
+"And?"
+
+"I just detected one."
+
+His eyes widened.
+
+"A signal?"
+
+"Yes."
+
+Iris's voice became more serious.
+
+"It is extremely weak."
+
+"But it is active."
+
+Kael's heartbeat quickened.
+
+"Can you identify its source?"
+
+"Not yet."
+
+"But you should hear it yourself."
+
+A faint sound suddenly entered Kael's ears.
+
+Static.
+
+Then a distorted voice.
+
+"This... mon..."
+
+Static.
+
+"...kil... sav..."
+
+The transmission broke apart.
+
+Kael frowned.
+
+"What was that?"
+
+The signal disappeared.
+
+"Could you understand any of it?"
+
+"Only fragments."
+
+He looked toward the town.
+
+"If the civilians had been successfully evacuated, we wouldn't still be receiving a signal from here."
+
+"Correct."
+
+"So there are still people here."
+
+"That is my conclusion."
+
+Kael tightened his grip on his spear.
+
+"And judging by the bodies..."
+
+"They may be in serious danger."
+
+"We need to move closer to determine their exact status."
+
+"Agreed."
+
+"Let's go."
+
+---
+
+They followed the signal deeper into the town.
+
+After several minutes, Iris spoke again.
+
+"The signal strength is increasing."
+
+"How far?"
+
+"Approximately two hundred meters."
+
+Kael and Cherry continued forward.
+
+When they reached the location, Kael stopped.
+
+Several large military vehicles blocked the road.
+
+Unlike the Aero-Striders and Aero-Cruisers he had seen earlier, these machines had four enormous wheels.
+
+Some were overturned.
+
+Others had crashed into one another.
+
+One had been crushed against the side of a building.
+
+A dark liquid slowly leaked from underneath another vehicle.
+
+Kael stared at them.
+
+"What are these vehicles?"
+
+"They look somewhat similar to Aero-Cruisers, but they're much larger."
+
+"These are the High Mobility Vehicles I mentioned earlier."
+
+Iris examined them.
+
+"Even I didn't expect so many of them to still be operational."
+
+"Why?"
+
+"Because they require a specialized fuel."
+
+"Fuel?"
+
+"Yes."
+
+"The fuel was produced from natural gas, a resource that became almost completely exhausted during the Great War."
+
+"After the war, humanity transitioned almost entirely to electric-powered transportation."
+
+"These vehicles were considered obsolete."
+
+"So seeing this many of them in one place is unusual."
+
+Kael looked at the leaking liquid.
+
+Suddenly—
+
+A tiny flame appeared beneath the overturned vehicle.
+
+Iris's voice changed instantly.
+
+"Kael!"
+
+"Run!"
+
+Kael's eyes widened.
+
+"Why?"
+
+"That fuel is highly flammable!"
+
+The flames spread rapidly across the leaking liquid.
+
+Kael immediately grabbed Cherry and sprinted.
+
+They had barely covered several meters when—
+
+**BOOOOM!**
+
+The military vehicle exploded.
+
+A wave of heat blasted through the street.
+
+Dust, smoke, and pieces of metal were thrown into the air.
+
+Kael rolled across the ground before quickly getting back on his feet.
+
+He stared at the burning wreckage.
+
+"Iris..."
+
+He coughed.
+
+"You should probably tell me something like that before I stand next to it."
+
+There was a brief pause.
+
+"This was a genuine error on my part."
+
+"I detected the fuel leak, but I failed to account for the possibility of ignition from the damaged engine."
+
+Kael stared at the burning wreckage.
+
+"...You actually admitted you made a mistake."
+
+"I learn from my mistakes."
+
+"I have already stored this incident as a safety correction."
+
+Kael shook his head.
+
+"Good."
+
+A distant roar suddenly echoed through the streets.
+
+Then another.
+
+Then several more.
+
+Kael's expression changed.
+
+The explosion had attracted attention.
+
+From the surrounding streets, shadows began moving.
+
+Mutated animals emerged from between the buildings.
+
+Then more appeared.
+
+And more.
+
+Kael tightened his grip around his spear.
+
+"How many?"
+
+"Too many."
+
+The creatures charged.
+
+Kael and Cherry fought back.
+
+The first wave consisted of relatively weak mutants, roughly five to seven times stronger than an average human.
+
+Normally, such creatures wouldn't have posed much of a threat.
+
+But they weren't attacking individually.
+
+They came in groups.
+
+One creature attacked from the front.
+
+Another from the side.
+
+Several more emerged from behind the buildings.
+
+Kael pierced one through the skull before spinning and striking another with the shaft of his spear.
+
+Cherry flashed between the creatures like a white shadow.
+
+But every time they killed one...
+
+Two more appeared.
+
+"Kael!"
+
+Iris's voice became urgent.
+
+"We need to leave."
+
+Kael knocked another creature aside.
+
+"Where?"
+
+"Through that building."
+
+She highlighted a nearby structure.
+
+"The interior route is narrower."
+
+"Fewer creatures can surround you."
+
+Kael immediately understood.
+
+He charged toward the entrance.
+
+His spear carved a path through the creatures blocking his way.
+
+Cherry followed directly behind him.
+
+They entered the building.
+
+The creatures attempted to follow.
+
+Kael slammed a broken metal door behind them.
+
+Then he and Cherry raced upward.
+
+They moved through several interconnected buildings, jumping across narrow gaps between elevated walkways.
+
+For fifteen minutes, they continued moving.
+
+Eventually...
+
+The sounds of the pursuing creatures disappeared.
+
+Kael leaned against a wall, breathing heavily.
+
+"Facing..."
+
+He took another breath.
+
+"...a group..."
+
+He wiped the sweat from his forehead.
+
+"...is more difficult than fighting a stronger mutant."
+
+"Correct."
+
+Iris paused.
+
+"However, there is something more important."
+
+Kael straightened.
+
+"The signal."
+
+"Yes."
+
+"It has become significantly stronger."
+
+Kael looked around.
+
+"Can you pinpoint it?"
+
+"Just a moment..."
+
+The holographic display flickered.
+
+Iris processed the surrounding structures.
+
+Then—
+
+"Got it."
+
+Kael waited.
+
+"Where?"
+
+Iris highlighted the ground beneath them.
+
+Kael looked down.
+
+"Right below us."
+
+"Approximately fifty-two meters."
+
+Kael's eyes widened.
+
+"Fifty-two meters?"
+
+"Yes."
+
+Iris's voice became quieter.
+
+"There appears to be a large underground structure beneath this building."
+
+Kael looked at Cherry.
+
+Cherry's ears immediately perked up.
+
+"A shelter?"
+
+"Most likely...They were waiting beneath his feet."

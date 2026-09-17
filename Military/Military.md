@@ -25,6 +25,24 @@ I have also made the requested corrections:
 
 ---
 
+# STRATEGIC CONTEXT — CLASSIFIED DOSSIER (REVISION ALPHA)
+
+**Origin:** Department of Strategic Foresight and Global Infrastructure
+
+**Year:** 2120
+
+**Clearance:** LEVEL OMEGA
+
+### Status — Parameters Updated
+
+* The global monolith model has been fractured into competing **Sovereign Nations**.
+* The military is a highly professional, technologically augmented force.
+* Expendable tiers have been scrubbed from the organizational model.
+* Operational focus: traditional national defense, power projection, and border sovereignty.
+* The branches retain their structural designations but operate with strict nationalistic objectives — defending borders and projecting power against rival superpowers.
+
+---
+
 # I. CORE IDENTITY
 
 ## 1. Sovereign Defense Directorate
@@ -238,6 +256,13 @@ Its design language is:
 
 The visual language is heavy, grounded, armored, and immovable. 
 
+### Equipment & Technology
+
+* Heavy **mag-lev armor**
+* **Autonomous quadruped weapon platforms**
+* Highly trained infantry equipped with **exoskeleton combat suits**
+* Capabilities: border defense, ground invasions, holding contested territory 
+
 ---
 
 # 2. HRA — HYDRO-RESOURCE ARMADA
@@ -264,6 +289,14 @@ Its design language is:
 ## THE HORIZON
 
 It should feel like military-controlled water infrastructure rather than a traditional navy. 
+
+### Equipment & Technology
+
+* **Desalinization dreadnoughts**
+* **Stealth submersibles**
+* **Mobile offshore command fortresses**
+* **Massive carrier strike groups**
+* Mandate: secure vital international shipping lanes, control the oceans, project power 
 
 ---
 
@@ -292,6 +325,13 @@ It represents:
 **Atmosphere / Air / Interception / Speed**
 
 The visual language is sharp, aerodynamic, directional, and precise. 
+
+### Equipment & Technology
+
+* **Kestrel-V Apex**
+* **Hypersonic interceptors**
+* **High-altitude drone swarms**
+* Capabilities: strategic bombing, close air support, absolute air superiority over national airspace 
 
 ---
 
@@ -322,6 +362,15 @@ It represents:
 
 Its visual character is remote, precise, technological, and strategic. 
 
+### Equipment & Technology
+
+* **Satellite grid**
+* **GPS / quantum-communications**
+* **ICBM defense**
+* **Orbital kinetic platforms**
+* **Lunar mining interests (Helium-3 reserves)**
+* Capabilities: control of the nation's satellite grid, national mining security on the Moon 
+
 ---
 
 # 5. VERDANT GUARD
@@ -351,6 +400,17 @@ There is no:
 * "VERDANT GUARD" text
 
 Its identity exists inside the SDD Master Badge's classified authentication architecture. 
+
+### Equipment & Technology
+
+Category: Elite Special Operations & State Security (Tier 1).
+
+* Deep-infiltration
+* Sabotage of enemy arcologies
+* Counter-terrorism
+* Personal protection of the nation's **Class 1 leadership**
+
+(The Verdant Guard's role has moved away from agricultural policing.) 
 
 ---
 
@@ -538,6 +598,60 @@ Examples include:
 * **JB-42 — Sasebo Grand Naval Base**
 * **JB-47 — Uruma Island Defense Complex**
 
+### Complete Joint Base Table (JB-01 through JB-47)
+
+The full authoritative list of all 47 Prefectural Joint Bases with their primary branch compositions.
+
+| Base No. | Region   | Prefecture | Main Base                    | Primary Branches          |
+| -------- | -------- | ---------- | ---------------------------- | ------------------------- |
+| **JB-01** | Hokkaido | Hokkaido   | Chitose Joint Fortress       | TPV • ASC • HRA           |
+| **JB-02** | Tohoku   | Aomori     | Towada Base                  | ASC • OSL                 |
+| **JB-03** | Tohoku   | Iwate      | Kitakami Base                | TPV                       |
+| **JB-04** | Tohoku   | Miyagi     | Sendai Fortress              | TPV • ASC • OSL           |
+| **JB-05** | Tohoku   | Akita      | Daisen Base                  | TPV                       |
+| **JB-06** | Tohoku   | Yamagata   | Tendo Base                   | TPV                       |
+| **JB-07** | Tohoku   | Fukushima  | Koriyama Base                | ASC • TPV                 |
+| **JB-08** | Kanto    | Tokyo      | Tachikawa Strategic Base     | ASC • Verdant Guard • OSL |
+| **JB-09** | Kanto    | Kanagawa   | Yokosuka Naval Citadel       | HRA • Verdant Guard       |
+| **JB-10** | Kanto    | Chiba      | Narita Air Fortress          | ASC                       |
+| **JB-11** | Kanto    | Saitama    | Kumagaya Logistics Base      | TPV                       |
+| **JB-12** | Kanto    | Gunma      | Maebashi Mountain Base       | TPV                       |
+| **JB-13** | Kanto    | Tochigi    | Utsunomiya Armored Base      | TPV                       |
+| **JB-14** | Kanto    | Ibaraki    | Tsukuba Orbital Command      | OSL • ASC                 |
+| **JB-15** | Chubu    | Niigata    | Nagaoka Coastal Base         | HRA                       |
+| **JB-16** | Chubu    | Toyama     | Takaoka Naval Station        | HRA                       |
+| **JB-17** | Chubu    | Ishikawa   | Komatsu Defense Base         | ASC • HRA                 |
+| **JB-18** | Chubu    | Fukui      | Tsuruga Naval Base           | HRA                       |
+| **JB-19** | Chubu    | Nagano     | Matsumoto Mountain Fortress  | TPV                       |
+| **JB-20** | Chubu    | Yamanashi  | Kofu Air Base                | ASC                       |
+| **JB-21** | Chubu    | Gifu       | Seki Armored Arsenal         | TPV                       |
+| **JB-22** | Chubu    | Shizuoka   | Hamamatsu Air Fortress       | ASC                       |
+| **JB-23** | Chubu    | Aichi      | Nagoya Command Complex       | TPV • Logistics           |
+| **JB-24** | Kansai   | Kyoto      | Kyoto Black Citadel          | Verdant Guard • OSL       |
+| **JB-25** | Kansai   | Osaka      | Sakai Logistics Fortress     | TPV • HRA                 |
+| **JB-26** | Kansai   | Hyogo      | Himeji Naval Fortress        | HRA                       |
+| **JB-27** | Kansai   | Shiga      | Hikone Defense Base          | TPV                       |
+| **JB-28** | Kansai   | Nara       | Tenri Security Base          | Verdant Guard             |
+| **JB-29** | Kansai   | Wakayama   | Gobo Coastal Base            | HRA                       |
+| **JB-30** | Kansai   | Mie        | Matsusaka Naval Base         | HRA                       |
+| **JB-31** | Chugoku  | Hiroshima  | Higashihiroshima Fortress    | TPV • ASC                 |
+| **JB-32** | Chugoku  | Okayama    | Kurashiki Logistics Base     | TPV                       |
+| **JB-33** | Chugoku  | Shimane    | Izumo Coastal Base           | HRA                       |
+| **JB-34** | Chugoku  | Tottori    | Kurayoshi Defense Base       | TPV                       |
+| **JB-35** | Chugoku  | Yamaguchi  | Hofu Naval Fortress          | HRA • ASC                 |
+| **JB-36** | Shikoku  | Ehime      | Toon Military Complex        | HRA • TPV                 |
+| **JB-37** | Shikoku  | Kagawa     | Marugame Naval Station       | HRA                       |
+| **JB-38** | Shikoku  | Tokushima  | Naruto Coastal Base          | HRA                       |
+| **JB-39** | Shikoku  | Kochi      | Nankoku Air & Naval Base     | ASC • HRA                 |
+| **JB-40** | Kyushu   | Fukuoka    | Iizuka Defense Base          | TPV                       |
+| **JB-41** | Kyushu   | Saga       | Tosu Logistics Base          | TPV                       |
+| **JB-42** | Kyushu   | Nagasaki   | Sasebo Grand Naval Base      | HRA                       |
+| **JB-43** | Kyushu   | Kumamoto   | Kikuyo Military Fortress     | TPV • ASC                 |
+| **JB-44** | Kyushu   | Oita       | Beppu Air Base               | ASC                       |
+| **JB-45** | Kyushu   | Miyazaki   | Miyakonojo Air Station       | ASC                       |
+| **JB-46** | Kyushu   | Kagoshima  | Kirishima Expeditionary Base | HRA • ASC                 |
+| **JB-47** | Kyushu   | Okinawa    | Uruma Island Defense Complex | HRA • ASC • OSL           |
+
 The source establishes JB-01 through JB-47 and their branch compositions.
 
 ---
@@ -561,6 +675,13 @@ Rank is communicated through:
 * shoulder geometry
 
 This separation is fundamental to the SDD system. 
+
+---
+
+## THE 2120 SOLDIER
+
+* Command in 2120 requires **advanced neural-processing cybernetics** and mastery of **multi-domain warfare**.
+* The Enlisted/NCO tiers — professional **Troopers, Sergeants, and Warrant-Techs** — form the backbone of the force; strategic command begins at the commissioned tier.
 
 ---
 
@@ -689,6 +810,25 @@ The rank structure and command relationships are established in the source mater
 
 ---
 
+## Rank Equivalents & Operational Notes
+
+Equivalent conventional ranks and additional operational detail.
+
+| # | Rank | Equivalent | Operational Notes |
+| - | ---- | ---------- | ----------------- |
+| 01 | Sub-Prime | Lieutenant / Ensign | Fresh graduates of the national military academies. Lead infantry platoons or serve as junior bridge officers on HRA vessels. Rely heavily on AI tactical overlays to manage their units. |
+| 02 | Captain-Prime | Captain / Lieutenant | Company commanders and ASC flight leaders. Proven ability to handle live combat without being overwhelmed by the influx of battlefield sensor data. |
+| 03 | Major-Tactical | Major / Lt. Commander | Battalion executive officers and tactical planners. Often operate from mobile command hubs, coordinating drone strikes, artillery, and infantry movements in real time. |
+| 04 | Commander-Regent | Lt. Colonel / Commander | Squadron commanders and leaders of armored battalions. In the HRA they command nimble **stealth destroyers** or **submarine hunter-killers**. |
+| 05 | Colonel-Logis | Colonel / Captain | Regiment commanders and captains of capital ships (cruisers/carriers). Manage not just combat but the complex **energy grids, hydrogen-cell supply chains, and maintenance schedules** of a massive fighting force. |
+| 06 | Brigadier-Matrix | Brigadier General / Commodore (1 Star) | Commanders of entire brigades or orbital logistics stations. "Matrix" = direct access to the nation's strategic AI defense grid. |
+| 07 | Sector-General / Sector-Admiral | Major General / Rear Admiral (2 Star) | Division commanders or Carrier Strike Group commanders. Responsible for an entire theater sector (e.g., a 500-mile stretch of the national border or a specific ocean quadrant). |
+| 08 | Theater-General / Theater-Admiral | Lt. General / Vice Admiral (3 Star) | Corps commanders. Command massive geographical zones and coordinate joint operations across TPV, HRA, and ASC. |
+| 09 | High General / High Admiral | General / Admiral (4 Star) | The Chiefs of Staff for their respective branches. Operate from the nation's fortified capital, advising the civilian/corporate leadership on global warfare strategy. |
+| 10 | Grand Marshal of the State | Field Marshal (5 Star) | The absolute highest wartime rank. Appointed only during global conflicts. Holds supreme command over all five branches, outranking everyone except the Head of State. |
+
+---
+
 # IX. COMMAND-TO-RANK RELATIONSHIP
 
 | Organization               | Typical Highest Rank              |
@@ -704,6 +844,23 @@ The rank structure and command relationships are established in the source mater
 | Platoon                    | Sub-Prime                         |
 
 This provides the basic relationship between organizational scale and command rank. 
+
+---
+
+## RANK DEPLOYMENT HIERARCHY
+
+| # | Rank                                     | Primary Deployment                                                          | Typical Command                                                                         |
+| - | ---------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| 01 | Sub-Prime                                | Standard Joint Bases (JB), Major Joint Bases, Ships, Air Bases              | Platoon, Troop, Flight, Ship Department                                                 |
+| 02 | Captain-Prime                            | Standard Joint Bases, Major Joint Bases, Air Bases, Naval Bases             | Company, Air Squadron, Naval Patrol Vessel, Special Operations Team                     |
+| 03 | Major-Tactical                           | Standard Joint Bases, Major Joint Bases, Brigade Headquarters               | Battalion Executive Officer, Operations Officer, Intelligence Officer, Tactical Planner |
+| 04 | Commander-Regent                         | Standard Joint Bases, Major Joint Bases                                     | Battalion Commander, Armored Battalion, Destroyer, Submarine, Special Task Force        |
+| 05 | Colonel-Logis                            | Major Joint Bases, National Military Installations                          | Regiment Commander, Base Commander, Carrier/Cruiser Captain, Logistics Group Commander  |
+| 06 | Brigadier-Matrix                         | Standard Joint Bases (large), Major Joint Bases, Orbital Logistics Stations | Brigade Commander, Joint Base Commander, Orbital Logistics Commander                    |
+| 07 | Sector-General / Sector-Admiral          | Major Strategic Joint Bases, Fleet Headquarters                             | Division Commander, Carrier Strike Group Commander, Strategic Joint Base Commander      |
+| 08 | Theater-General / Theater-Admiral        | Regional Joint Commands (RC-01 to RC-08)                                    | Regional Defense Commander controlling all five branches in the region                  |
+| 09 | High General / High Admiral              | National Branch Headquarters (Branch Commands 01–05)                        | Chief of Staff of an entire military branch (TPV, HRA, ASC, OSL, or Verdant Guard)      |
+| 10 | Grand Marshal of the State               | Supreme Defense Command (Command-00)                                        | Supreme Commander of the entire Sovereign Defense Directorate                            |
 
 ---
 
@@ -1092,6 +1249,18 @@ Recommended references:
 * Verdant Dark — `#183A29`
 
 Green is reserved for the classified system. 
+
+### Branch Color Standards (Hex References)
+
+Exact color values for the branch identification systems.
+
+| Branch | Identity    | Primary         | Secondary        | Accent                     | Metal           |
+| ------ | ----------- | --------------- | ---------------- | -------------------------- | --------------- |
+| TPV    | Territory   | Gunmetal/Graphite | Army Olive `#4A5138` | Muted Crimson              | —               |
+| HRA    | Water       | Deep Navy `#101E2D` | Ocean Blue `#164E63` | Desalination Teal `#3B8C91` | Silver `#A7ADB3` |
+| ASC    | Atmosphere  | Graphite        | Air Force Blue `#315A78` | Pale Cyan `#83B7C9`         | Silver          |
+| OSL    | Orbit       | Near Black `#0B0F14` | Deep Space Blue `#172A46` | Electric Violet `#6657A6`   | Cold Silver `#BFC7D0` |
+| Verdant Guard | Hidden | Matte Black     | Forest Green     | —                          | —               | 
 
 ---
 

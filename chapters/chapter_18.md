@@ -366,7 +366,7 @@ After a long silence, Iris spoke again.
 
 Her voice became noticeably quieter.
 
-\"Current global survival estimates indicate that fewer than five
+\"Current global survival estimates indicate that fewer than fifteen
 percent of humanity will survive the mutation.\"
 
 Kael\'s breathing grew heavier.
