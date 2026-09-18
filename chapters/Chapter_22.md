@@ -212,7 +212,7 @@ Then the wild boar swung its massive head toward the rubble where Kael was crouc
 
 It charged.
 
-Kael exploded out of cover. His spear slammed into the boar's shoulder, flesh tore and blood flurted out. It lowered its head and carved a trench through the earth with its tusks, forcing him sideways before he could recover.
+Kael exploded out of cover. His spear slammed into the boar's shoulder; flesh tore and blood spurted out. It lowered its head and carved a trench through the earth with its tusks, forcing him sideways before he could recover.
 
 Behind the barricades, one of the defenders froze.
 
@@ -320,23 +320,23 @@ She held still a moment longer—then her ears twitched, and the tension bled ou
 
 "Put your weapons down," Kael said again, quieter now. "If I meant you harm, I wouldn't have saved your people."
 
-The commander shook his head as if clearing his thoughts. "I don't trust you, nor your mutated cat but it is true you saved us. We will trust you for now."
+The commander shook his head as if clearing his thoughts. "I don't trust you, nor your mutated cat, but it's true that you saved us. We will trust you for now."
 
 He gestured toward his soldiers.
 
 Slowly, one by one, the barrels lowered.
 
-The commander studied him for a moment. "Where did you come from and how are you able to fight like that ?"
+The commander studied him for a moment. "Where did you come from, and how are you able to fight like that?"
 
 Kael hesitated—then, deciding trust would cost less than secrecy now, he spoke.
 
-"I wasn't always here. I was in Osaka when the animals mutated and killed people. A mutated tree—something I still can't fully explain—took me and transported me to Mount Myōken in an instant." He let that settle. "For the past one month I traveled on foot, through the entire forest, surviving everything that mountain threw at me. I came out of the Mt ranges and came across this town, I thought there was a good chance of SDD units here so i came here. As for how im so strong.... I ate the meat of the mutated animals and then on... i became stronger."
+"I wasn't always here. I was in Osaka when the animals mutated and killed people. A mutated tree—something I still can't fully explain—took me and transported me to Mount Myōken in an instant." He let that settle. "For the past month, I traveled on foot through the entire forest, surviving everything that mountain threw at me. I came out of the mountain range and came across this town. I thought there was a good chance of SDD units here, so I came. As for how I'm so strong... I ate the meat of the mutated animals, and over time, I became stronger."
 
 A long silence greeted him.
 
-The commanded looked around and spoke. "We were stationed at an underground base beneath Mount Myōken. When there was a blast from the south-southwest, there was a blast. A loud one. The ground shook for miles."
+The commander looked around and spoke. "We were stationed at an underground base beneath Mount Myōken. When there was a blast from the south-southwest, a loud one, the ground shook for miles."
 
-"within few minutes of the blast the power died."
+"Within a few minutes of the blast, the power died."
 
 "Everything. Every electrical system in the base went dark at once. No emergency lights, no comms, no weapons. Right after that, every animal in the region went berserk. Ferocious. Aggressive. They started hunting us. With no way to defend ourselves and no way to recharge it, we had to ransack the entire underground base just to survive. That's where we found the High Mobility Vehicles—they were kept in a storage bay under the mountain. None of us knew how to ride them, so we ransacked the maintenance bay for a manual, studied it by flashlight, and used whatever fuel we recovered to escape the mountain range."
 
@@ -362,5 +362,5 @@ He lowered his hand.
 
 "If you two hadn't saved us, we might not have held this line."
 
-"We should be safe for some more time as we held onto this wave, but soon other mutated animals will gather."
+"We should be safe for a while since we held off this wave, but soon other mutated animals will gather."
 
