@@ -1,6 +1,6 @@
 # Chapter 20
 
-**Mount Myōken, Hyōgo \| September 15, 2120 \| 3:30**
+**Mount Myōken, Hyōgo \| September 15 -- October 15, 2120**
 
 Kael frowned.
 
@@ -212,7 +212,7 @@ Iris projected a route through the dense forest.
 
 \"Our destination remains Kyoto Black Citadel.\"
 
-\"Estimated distance: ninety-seven kilometers.\"
+"Estimated distance: ninety-eight kilometers."
 
 She paused.
 

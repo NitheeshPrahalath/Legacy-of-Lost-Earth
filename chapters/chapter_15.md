@@ -7,7 +7,7 @@ A dead silence filled the library.
 Everyone was still trying to process everything that had happened over
 the last hour. The bridge crossing, the mutated crows, and finally
 Cherry\'s overwhelming display of strength. Even after hearing Kael\'s
-explanation, the image of the small white cat tearing through seven
+explanation, the image of the small white cat tearing through eight
 mutated crows in mere seconds refused to leave their minds.
 
 Hirota was the first to break the silence.
@@ -522,7 +522,7 @@ Iris quietly displayed the latest status report before Kael.
 >
 > Maya Yamamoto -- **1.7**
 >
-> Nakamura Aoi -- **1.9s**
+> Nakamura Aoi -- **1.9**
 
 The three peaceful days allowed the group to slowly adapt to their new
 reality.

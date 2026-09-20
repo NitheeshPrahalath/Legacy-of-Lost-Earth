@@ -1,7 +1,7 @@
 # **Chapter 1**
 
 **Osaka City, September 9th, 2120.**\
-The skies had bled for one month002E\
+The skies had bled for one month.\
 They were crimson now, a wound that never closed, streaked with ash and
 smoke. Sunlight no longer shone---it bled down through the haze in
 molten shafts, painting the ruins of Osaka in fire. The city that had

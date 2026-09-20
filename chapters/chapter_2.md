@@ -1,6 +1,6 @@
 # **Chapter 2**
 
-**Food Distribution Hub, Osaka Ruins \| September 9, 2120, 17:15**
+**Food Distribution Hub, Osaka Ruins \| September 9, 2120, 17:30**
 
 Kael pressed himself tighter against the pillar.\
 He reached out to Iris mentally. "Iris," he whispered in thought. "Tell

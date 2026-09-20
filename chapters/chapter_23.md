@@ -32,23 +32,19 @@ It was quieter. The people here were too exhausted to cry. They waited, hollow-e
 
 "Roughly three thousand civilians survived," Ariga answered. "That's it. Out of everything that was in this town. Three thousand, with no food, no medicine, and a dying shelter."
 
-The third floor was sealed.
+The third floor.
 
-An armored hatch split the floor, guarded by two TPV soldiers with wind-up crossbows and a biometric lock that no longer worked. Ariga pressed his palm against a dormant plate. Nothing happened.
+An armored hatch split the floor, guarded by two TPV soldiers with wind-up crossbows and a biometric lock that no longer worked. The door had been pried open by hand, using whatever tools the men could scavenge.
 
-"The SDD sections," he said. "Comms, command, and what's left of our supply. The power came back on days ago, but this level never reboots. The breakers threw themselves and no one can reach them by hand."
+"The SDD sections," he said. "Comms, command, and what's left of our supply. We never got the power back down here, so we forced this door open manually with everything we could find. The backup cells aren't enough to run up the communication systems."
 
 Beyond the hatch, barely audible through the plating, a faint hum pulsed—then died, then pulsed again. The comms equipment was alive, but barely. Not enough to respond. Not enough to connect.
 
-Kael stepped toward the hatch. "Can you access it from out here?"
+Iris spoke in Kael's mind. "The hatch's authentication subsystem is offline. The terminal beyond it retains a partial power state — one communication line, weak, and unresponsive to manual input."
 
-Behind him, Ariga frowned at the half-muttered question.
+Ariga spoke, his eyes on the dead hatch. "The soldiers have been attempting a connection to the Regional Command in Kyoto for weeks now, using every way they could think of. But—" He shook his head.
 
-Iris answered in Kael's mind. "The hatch's authentication subsystem is offline. The terminal beyond it retains a partial power state — one communication line, weak, and unresponsive to manual input."
-
-"And the SDD?"
-
-"The soldiers have been attempting a connection to the Regional Command in Kyoto for weeks," Iris said. "They are broadcasting across every standard band and receiving nothing. Their signal never leaves the shelter."
+"They are broadcasting across every standard band and receiving nothing," Iris finished. "Their signal never leaves the shelter."
 
 Kael said nothing.
 
@@ -81,6 +77,20 @@ Kael fought.
 Minutes bled into hours. The defenders cycled in shifts; Kael didn't. He met the second wave at the barricade line, spear carving through hide and sinew, Cherry a white storm at the flank, shredding anything that slipped past.
 
 The SDD soldiers held the flanks with wind-up crossbows and air rifles, bolt after bolt, rationing every shaft.
+
+In the lull before the third wave, Kael crouched at the barricade and butchered the boar he had killed in the second wave—a clean spear through the throat. A knife was passed to him without a word by one of Ariga's soldiers, and he worked fast, skinning a haunch away from the carcass while the line watched in silence. His body burned through everything he fed it; the hunger behind his ribs was a real thing now.
+
+He scraped a shallow pit in the dead soil, fed it kindling torn from a shattered vehicle's housing, and roasted the meat over a low, smoldering flame.
+
+The soldiers watched.
+
+Some stepped back, faces twisting in disgust as the smell of cooked beast-fat rolled over them on the night air.
+
+It was not right. 
+
+But somewhere further down the line a quieter voice asked, barely audible, "Does it taste like anything?" No one answered.
+
+Kael ate. He ate fast, burning his fingers, tearing at the roasted haunch, and it was good—warm and real, putting strength back into his limbs.
 
 The third wave came at midnight.
 
