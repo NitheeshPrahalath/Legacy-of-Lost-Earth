@@ -1,6 +1,6 @@
 # Chapter 20
 
-**Mount Myōken, Hyōgo \| September 15 -- October 15, 2120**
+**Mount Myōken, Hyōgo \| September 15, 2120 \| 3:30**
 
 Kael frowned.
 
