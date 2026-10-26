@@ -44,7 +44,7 @@ Iris spoke in Kael's mind. "The hatch's authentication subsystem is offline. The
 
 Ariga spoke, his eyes on the dead hatch. "The soldiers have been attempting a connection to the Regional Command in Kyoto for weeks now, using every way they could think of. But—" He shook his head.
 
-"They are broadcasting across every standard band and receiving nothing," Iris finished. "Their signal never leaves the shelter."
+"They are broadcasting across every standard band and receiving nothing," Iris finished in Kael's mind. "Their signal never leaves the shelter."
 
 Kael said nothing.
 
@@ -78,7 +78,7 @@ Minutes bled into hours. The defenders cycled in shifts; Kael didn't. He met the
 
 The SDD soldiers held the flanks with wind-up crossbows and air rifles, bolt after bolt, rationing every shaft.
 
-In the lull before the third wave, Kael crouched at the barricade and butchered the boar he had killed in the second wave—a clean spear through the throat. A knife was passed to him without a word by one of Ariga's soldiers, and he worked fast, skinning a haunch away from the carcass while the line watched in silence. His body burned through everything he fed it; the hunger behind his ribs was a real thing now.
+In the lull before the third wave, Kael crouched at the barricade and butchered the boar he had killed in the second wave—a clean spear through the throat. A knife was passed to by one of Ariga's soldiers, and he worked fast, skinning a haunch away from the carcass while the line watched in silence. His body burned through everything he fed it; the hunger behind his ribs was a real thing now.
 
 He scraped a shallow pit in the dead soil, fed it kindling torn from a shattered vehicle's housing, and roasted the meat over a low, smoldering flame.
 
@@ -86,15 +86,17 @@ The soldiers watched.
 
 Some stepped back, faces twisting in disgust as the smell of cooked beast-fat rolled over them on the night air.
 
-It was not right. 
+It was not right.
 
 But somewhere further down the line a quieter voice asked, barely audible, "Does it taste like anything?" No one answered.
 
-Kael ate. He ate fast, burning his fingers, tearing at the roasted haunch, and it was good—warm and real, putting strength back into his limbs.
+Kael ate fast, burning his fingers, tearing at the roasted haunch.
 
 The third wave came at midnight.
 
-Kael's arms were raw. His spear had been re-shafted twice. Cherry moved slower now, blood matted thick over her white coat, but she never stopped.
+His makeshift spear had nearly broken apart and he then had to replace the shaft with whatever metal he could get from the vehicle scraps. 
+
+Cherry moved slower now, blood matted thick over her white coat, but she never stopped.
 
 On the fourth wave, near dawn, the line nearly broke.
 
@@ -114,7 +116,7 @@ The last mutated animal crumpled at the edge of the barricade, and the clearing 
 
 Then the horizon opened.
 
-A low, rising howl shook the morning air—not a Beast, but turbines. Mag-lev repulsors. A formation of shapes descending through the grey Kyoto haze at impossible speed.
+A low, rising howl shook the morning air—not a Beast, but turbines. Mag-lev repulsors. A formation of shapes descending through the grey haze at impossible speed.
 
 The Leviathans came first.
 
