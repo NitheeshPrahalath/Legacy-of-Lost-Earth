@@ -64,17 +64,25 @@ He could feel her work—not through the terminal's circuits, but around them. P
 
 A single transmission, brief and clean, left the shelter minutes later.
 
+Kael asked ,"How long can we hold this position?"
+
+Ariga said, "With our remaining resources? Even passing a single Day is too difficult, the number of injured and ill are climbing and we have no resources to treat them.  We're running out of everything."
+
+Before Kael can respond, a soldier rushed toward them.
+
+"Captain! Movement detected along the eastern perimeter!"
+
 And outside, the mutated animals started attacking again.
 
 ---
 
-Mutated  Raccoon Dog, Wild Boar,  Hare,  Weasel,  Badger,  Marten,  Red Squirrel,  Crow, White Wagtail, Serow. A tide of twisted fur and muscle, surging against the two rings of High Mobility Vehicles Ariga's men had raised.
+Mutated Raccoon Dog, Wild Boar, Hare, Weasel, Badger, Marten, Red Squirrel, Crow,  Serow. A tide of twisted fur and muscle, surging against the two rings of High Mobility Vehicles Ariga's men had raised.
 
 Minutes bled into hours. The defenders cycled in shifts; Kael didn't. He met the wave at the barricade line, spear carving through hide and bones, Cherry a white storm at the flank, shredding anything that slipped past.
 
 The SDD soldiers held the flanks with wind-up crossbows and air rifles, bolt after bolt, rationing every shaft.
 
-In the lull between the attacks, Kael crouched at the barricade and butchered the wild boar he had killed minutes earlier—a clean spear through the throat. A knife was passed to by one of Ariga's soldiers, and he worked fast, skinning a haunch away from the carcass while the line watched in silence. His body burned through everything he fed it; the hunger behind his ribs was a real thing now.
+In the lull between the attacks, Kael crouched at the barricade and butchered the wild boar he had killed minutes earlier—a clean spear through the throat. A knife was passed by one of Ariga's soldiers, and he worked fast, skinning a haunch away from the carcass while the line watched in silence. His body burned through everything he fed it.
 
 He scraped a shallow pit in the dead soil, fed it kindling torn from a shattered vehicle's housing, and roasted the meat over a low, smoldering flame.
 
@@ -88,23 +96,23 @@ But somewhere further down the line a quieter voice asked, barely audible, "Does
 
 Kael ate fast, burning his fingers, tearing at the roasted haunch.
 
-The lull came to a end at midnight,
+His makeshift spear had nearly broken apart and he then had to replace the shaft with whatever metal he could get from the vehicle scraps.
 
-His makeshift spear had nearly broken apart and he then had to replace the shaft with whatever metal he could get from the vehicle scraps. 
+The lull came to a end at midnight,
 
 Cherry moved slower now, blood matted thick over her white coat, but she never stopped.
 
 By dawn, the line nearly broke.
 
-A beast bigger than the mutated boar—a mutated sika deer, antlers grown into a crown, smashed through the outer ring of vehicles. It puahed one , gored another, and drove the center of the line stumbling backward.
+A beast bigger than the mutated boar—a mutated sika deer, antlers grown into a crown, smashed through the outer ring of HMV vehicles. Each of the HMV weight about 12000kg. 
+
+It drove the front line formation of the SDD soldiers stumbling backward.
 
 Kael met it head-on.
 
 The antlers raked his shoulder. He took the hit, dropped low, and drove the spear up into the soft tissue beneath the deer's chin. The creature crashed down, kicking, and Kael pinned it until it stilled.
 
 Seven hours.
-
-Four waves.
 
 The last mutated animal crumpled at the edge of the barricade, and the clearing fell silent.
 
