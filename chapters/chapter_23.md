@@ -64,7 +64,7 @@ He could feel her work—not through the terminal's circuits, but around them. P
 
 A single transmission, brief and clean, left the shelter minutes later.
 
-Kael turned to Ariga. "How long can we hold this position?"
+Kael turned to Ariga. "How long can we hold on?"
 
 "With our remaining resources? Not even a single day," Ariga replied. "The number of injured and ill keeps climbing, and we have nothing left to treat them. We're running out of everything."
 
@@ -76,27 +76,39 @@ Outside, the mutated animals started attacking again.
 
 ---
 
-Mutated raccoon dogs, wild boars, hares, weasels, badgers, martens, red squirrels, crows, serows. A tide of twisted fur and muscle, surging out of the dying afternoon light against the two rings of High Mobility Vehicles Ariga's men had raised.
+Mutated raccoon dogs, wild boars, hares, weasels, badgers, martens, red squirrels, crows, serows. A tide of twisted fur and muscle surged out of the dying afternoon light against the two rings of High Mobility Vehicles Ariga's men had raised.
 
 Dusk bled into night, and the siege settled into a brutal rhythm.
 
-The SDD defenders cycled in shifts behind the steel hulls, firing wind-up crossbows and air rifles in tight volleys, rationing every bolt and pellet. Kael didn't cycle. He stayed at the barricade line, and for the first hour, the soldiers watched him like a stray wolf that might turn on them at any second. They kept their distance, unsure of where he would lunge next.
+The two rings of HMVs had been Ariga's work—twelve-ton vehicles angled into overlapping choke points, with firing gaps cut between bumpers and hulls. The SDD defenders cycled in shifts behind the steel walls, firing wind-up crossbows and air rifles in tight volleys, rationing every bolt and pellet. Kael didn't cycle. He stayed at the barricade line, and for the first hour the soldiers watched him like a stray wolf that might turn on them at any second.
 
 But a month on Mount Myōken had beaten the recklessness out of him.
 
-He didn't meet the swarm with blind force. He used the twelve-ton HMVs as funnels, letting the armored flanks pinch the pack into narrow kill zones where their numbers meant nothing. When a cluster of mutated hares and weasels skittered over a hood, he ignored them—letting the SDD crossbows pick them off—and stepped forward to intercept a charging serow before its horns could reach the firing line. His spear work was economical, all leverage and angles: a low parry to deflect a boar's momentum into a steel bumper, a single clean thrust through the throat, a twist of the shaft to free the blade without wasting his shoulders.
+He didn't charge blindly into the swarm. He read the formation Ariga's men had built and moved through it.
 
-At his flank, Cherry moved like a white ghost. Kael didn't shout commands. When he shifted his weight left to herd a pair of badgers away from a gap in the tires, Cherry was already there, lunging from the shadow of the undercarriage to tear them apart before they could recover.
+"Iris," he said under his breath. "Call them out."
 
-By the time the last of the daylight died and the clearing was reduced to the harsh glare of emergency floodlights and burning debris, the SDD line had quietly changed. The soldiers stopped flinching when Kael stepped across their sights. A rifleman on his left began calling out targets over his shoulder; two crossbowmen shifted their stance to cover his blind side whenever he pulled his spear free. Without a word spoken, the formation had begun to anchor itself around him.
+"Mutated hares and weasels—low threat. Leave them to the line," Iris replied in his mind. "Mutated serow, front right—high mass, horn-thrust threat. Mutated wild boar, center—priority. Mutated black-furred mountain dog pack, left gap—fast, coordinated."
+
+Kael moved the moment she identified them.
+
+He let the hares and weasels scramble over the HMV hoods, leaving them for the SDD crossbows and air rifles to pick apart. When the serow charged the right gap, Kael rushed past the barricade and met it head-on, driving his spear low to deflect its horns into the armored bumper before punching the point through its throat. When a wild boar barreled toward the center, he was already there, using the angle of the HMVs Ariga's soldiers had set to trap its momentum and finish it with a clean thrust.
+
+Cherry moved with him like a white ghost. When Iris marked a fast target slipping through a gap, Cherry was already lunging from beneath the undercarriage, tearing into it before it could reach the firing line.
+
+By the time the floodlights carved harsh white pools across the clearing, the SDD line had quietly changed. The soldiers held their positions and kept the weaker mutants off the barricades, while Kael and Cherry threw themselves at the larger, more dangerous beasts that could break the formation. A rifleman on his left began calling out targets over his shoulder; two crossbowmen shifted their stance to cover his blind side whenever he pulled his spear free. Without a word spoken, the line learned how to fight around him.
 
 ---
 
-The first true lull came just before midnight, leaving only the crackle of emergency flares and the distant, ragged howls of the pack regrouping in the dark.
+The first lull came at 22:00.
 
-Kael crouched beside the inner bumper and dragged over a mutated wild boar he had dropped minutes earlier—a clean spear through the neck. One of Ariga's soldiers hesitated, then silently passed him a heavy utility knife. Kael worked fast, skinning a haunch away from the carcass while the line watched in the flickering orange light. His body was a furnace, burning through everything he fed it.
+The last of the immediate wave collapsed at the edge of the barricade, leaving only the crackle of emergency flares and the distant rustle of movement in the dark tree line. Kael crouched beside the inner bumper and dragged over a mutated wild boar he had dropped minutes earlier—a clean spear through the neck. One of Ariga's soldiers hesitated, then silently passed him a heavy utility knife.
 
-He scraped a shallow pit in the dead soil, fed it kindling torn from a shattered vehicle's housing, and balanced the meat over a low, smoldering flame.
+Kael worked fast.
+
+He skinned a haunch away from the carcass, cutting through fur, muscle, and bone with quick, practiced motions. Blood pooled across the gravel and seeped into the dirt. More carcasses lay scattered beyond the barricades, split open by bolts, harpoons, and Kael's spear. The clearing reeked of iron, sweat, and raw meat.
+
+Kael scraped a shallow pit in the dead soil, fed it kindling torn from a shattered vehicle's housing, and balanced the meat over a low, smoldering flame.
 
 The smell of roasting fat drifted down the barricade.
 
@@ -114,115 +126,145 @@ Further down the line, an older soldier stared at the sizzling fat, his jaw clen
 
 Kael ate fast, burning his fingers, tearing strips from the bone. When he finished, he checked his makeshift spear. The wooden shaft was spider-webbed with deep fractures from hours of absorbing impacts. He broke it cleanly over his knee, pried a length of hollow steel tubing from the wreckage of a sheared-off roll cage, and lashed the spearhead tight with stripped wiring.
 
-The lull broke at midnight.
+Cherry crouched beside him, muzzle stained dark. Kael tossed her a strip of meat. She caught it and tore into it without hesitation.
+
+Then the wind shifted.
+
+It carried the smell of blood and cooked meat out past the barricades, past the burning debris, into the dark forest surrounding the town.
+
+Ariga stiffened. "Do you smell that?"
+
+Kael did.
+
+So did the animals.
+
+A howl answered from the tree line. Then another. Then dozens.
+
+The rustling beyond the clearing turned into movement—fast, heavy, spreading in every direction. Shapes appeared between the trees. More eyes reflected the floodlights. The commotion of the battle, the scent of open carcasses, and the smoke from Kael's fire had drawn everything nearby.
+
+The lull shattered.
+
+"Back to positions!" Ariga barked.
 
 ---
 
-The hours between midnight and dawn were the longest.
+The second wave hit harder than the first.
 
-The floodlights flickered as the generators ran dry, leaving the perimeter lit by vehicle headlights and the dim glow of oil fires. Exhaustion began to collect its debt. Kael's forearms burned with a dull, leaden ache, and his breathing came in ragged, uneven pulls. The razor-sharp economy of his earlier movements began to fray; a mutated marten raked his forearm before he could bat it aside, adding another weeping cut to the bruises and scrapes already mottling his skin.
+Mutated raccoon dogs, boars, and crows came in together, but they were no longer alone. Larger shapes pushed through them—mutated black bears, packs of mountain dogs, and horned serows charging with blind force. The animals were not organized, but the noise, blood, and movement dragged more of them into the clearing by the minute.
 
-Cherry was flagging, too. Her white coat was stiff and heavy, matted dark with mud and congealed blood. She no longer tore through the flank in a continuous blur; after each kill, she paused for a beat, flanks heaving, jaws dripping, before forcing herself back into the dark.
+Kael met the first boar head-on, his new steel-shafted spear punching through its shoulder. He ripped it free and pivoted into a raccoon dog's leap, slamming the shaft across its jaw before driving the point into its throat.
 
-By dawn, the line nearly broke.
+Cherry vanished into the dark.
 
-A silhouette towered out of the grey morning mist—bigger than the wild boars, bigger than anything they had fought all night. A mutated sika deer, its shoulders hunched with corded muscle, its antlers grown into a jagged, sprawling crown of bone.
+A shriek cut through the chaos as she dragged a crow from the air and tore it apart before it could claw at a soldier's face.
 
-Unlike the boars that charged low and blind, the deer struck with terrifying reach. It slammed headfirst into the weakened seam where two outer-ring HMVs met. Each vehicle weighed roughly 12,000 kilograms—too heavy to toss aside, even for a beast that size—so the deer didn't try. It hit the bumper once, twice, a third time with bone-jarring force, metal shrieking as the locked brakes gave way and the rear chassis skidded sideways across the gravel, prying open a jagged gap.
+The SDD line fired in disciplined bursts. Crossbow bolts thudded into flesh. Air rifles cracked. Harpoons pinned the larger beasts long enough for Kael to finish them.
 
-The deer surged through the breach and swung its head.
+But for every creature that fell, more came out of the forest.
 
-Its massive rack swept across the perimeter like a scythe, splintering wooden crates and sending three SDD soldiers flying backward. The front formation buckled, men scrambling out of the sweeping arc of bone.
+Midnight passed.
 
-Kael stepped into the gap, his legs trembling with fatigue.
+The battle did not slow.
 
-He tried to pivot inside the deer's reach, the way he had all night, but his timing was a fraction of a second too slow. A tine caught his shoulder, tearing through fabric and flesh, spinning him half-around. White-hot pain flared down his arm. Instead of retreating, he let the impact drop him low, planting his boots in the mud beneath the swinging crown.
+It grew.
 
-With everything left in his burning arms, he braced the steel shaft against the ground and drove the spear upward into the soft tissue beneath the deer's chin.
+The floodlights flickered as the generators weakened. Vehicle headlights cut narrow, shaking beams through smoke and dust. The barricade line became a churn of blood, mud, broken bolts, and dead animals. Kael's arms burned. His breathing grew heavier. Every thrust of the spear sent pain up his wrists and shoulders.
 
-The beast reared, lifting him half off his feet, hooves thrashing wildly before its legs buckled. It crashed down into the gravel, kicking violently, and Kael threw his full weight onto the shaft, pinning it until the thrashing finally stilled.
+Cherry's movements lost their sharpness. Her white coat was soaked dark with blood and dirt. She still fought, still killed, but after each lunge she paused for a fraction longer, chest heaving.
 
-Fourteen hours.
+Kael drove his spear into another boar and felt the steel shaft bend slightly under the impact. He kicked the corpse aside and barely caught a badger before its claws reached his leg.
 
-As the sun cleared the ridge, the last mutated animal crumpled at the edge of the barricade, and the clearing fell silent.
+"They just keep coming!" one soldier shouted.
+
+Ariga fired a bolt into a charging raccoon dog and turned toward the line. "Hold the gaps! Don't break formation!"
+
+But the formation was fraying.
+
+The animals were no longer arriving in scattered groups. The commotion had pulled them from every direction. The clearing around the shelter was becoming a feeding ground, and Kael and the SDD were trapped at its center.
+
+By early morning, exhaustion had settled into Kael's bones.
+
+A mutated mountain dog slipped past the HMV gap and lunged at him. Kael twisted, but not fast enough. Its claws raked across his side, tearing cloth and skin. He drove his knee into its ribs and impaled it through the neck, but another beast was already on him.
+
+Cherry slammed into it, knocking it away, but a crow struck her from above and sent her rolling across the gravel.
+
+"Cherry!"
+
+Kael lunged, speared the crow mid-hop, and pulled Cherry behind the bumper. She snarled, shaken but alive, blood matting the fur around her shoulder.
+
+Kael's vision blurred at the edges. His hands were slick with blood—his own and the animals'. The spear felt heavier with every movement.
+
+Ariga dropped beside him, breathing hard. "We can't hold this pace."
+
+Kael looked past the barricade.
+
+More shapes were coming.
+
+Not dozens.
+
+Hundreds of sounds in the dark—scratching, howling, trampling, wings beating against branches. The scent of blood had turned the entire foothill into a hunting ground.
+
+Kael tightened his grip on the spear.
+
+Even exhausted, he stepped forward.
+
+Cherry rose beside him, limping, teeth bared.
+
+Then the horizon changed.
 
 ---
 
-Then the horizon opened.
+A low, rising howl rolled across the morning sky—not an animal, but turbines.
 
-A low, rising howl shook the morning air—not a Beast, but turbines. Mag-lev repulsors. A formation of shapes descending through the grey haze at impossible speed.
+Mag-lev repulsors.
+
+The sound grew louder, deeper, until it drowned out the chaos below. Shapes descended through the pale haze above the treeline, moving fast and in formation.
 
 The Leviathans came first.
 
-Twenty of them. Omni-Transit "Leviathan" cruisers, their armored hulls scarred black with boarding-action paint, moving in a tight echelon like a herd of iron behemoths sweeping over the rooftops. City buses that had been repurposed into war transports—electrified plating humming, hatches open, soldiers silhouetted in every doorway.
+Twenty Omni-Transit "Leviathan" cruisers swept over the rooftops, their armored hulls scarred black with boarding-action paint. They moved in a tight echelon, electrified plating humming, hatches open, soldiers silhouetted in every doorway.
 
-Behind them, the heaviest of them all.
+Behind them came the Juggernauts.
 
-Five TPV "Juggernaut" Strike-Cruisers.
+Five TPV "Juggernaut" Strike-Cruisers dropped through the sky like hovering fortresses. Massive slabs of dark overlapping armor caught the morning light. Their roof-mounted twin-plasma cannons rotated toward the battlefield, and the localized gravity fields beneath their hulls crushed rubble as they settled into position.
 
-Fortresses made to hover. Massive slabs of dark overlapping armor, roof-mounted twin-plasma cannons angled forward, dropping through the dawn in a staggered wall of shadow. Localized gravity fields crushed rubble beneath their hulls as they came to rest, and the ground itself seemed to groan under their weight.
+The defenders stared up, too exhausted to speak.
 
-The dome's defenders stared up, weapons forgotten.
+"Those are... ours," Ariga breathed.
 
-"Those are... ours," Ariga whispered.
+The Juggernauts fired first.
 
-Hatches hissed open. TPV soldiers poured out in full exoskeleton combat suits—nearly a hundred of them—broad-shouldered, heavy-plated, rifles raised as they fanned into the clearing. Behind them, SDD general units disembarked from the Leviathans, dispatching medical teams and supply crates before the repulsors had fully settled.
+Twin-plasma cannons flashed, sending blinding arcs of energy into the densest clusters of mutated animals beyond the barricades. The blasts tore through the swarm, vaporizing beasts and scattering the ground beneath them. The shockwaves rolled across the clearing, knocking smaller creatures off their feet.
 
-Ninety-four combat troops from the Juggernauts.
+Before the echoes faded, the Leviathan hatches opened.
 
-Forty SDD general personnel from the Leviathans.
+TPV soldiers poured out in full exoskeleton combat suits, boots hitting the ground in heavy, synchronized thuds. They fanned out with practiced precision, Halberd-Pattern Pulse Rifles raised. Blue-white pulse discharges cut through the remaining animals with controlled bursts, each shot placed through heads, chests, and joints.
 
-A relief force out of the Kyoto Black Citadel, moving with the calm, mechanical precision of an institution that had manufactured war for generations.
+From the rear ramps of the Juggernauts, autonomous quadruped weapon platforms leapt down.
 
-The lead Juggernaut lowered its ramp, and a Sub-Prime in full field plate stepped out, scanning the carnage of the killing ground.
+The machines landed hard, metal limbs absorbing the impact, then surged forward into the battlefield. Mounted pulse armament fired in sharp, measured bursts as the platforms tore through the larger beasts, forcing the swarm back from the shelter perimeter.
 
-"Captain-Prime Ariga," he called across the clearing. "Kyoto received your shelter's status report. Consider this your resupply."
+The battlefield changed in minutes.
 
-Ariga turned to look at Kael.
+What Kael, Cherry, and Ariga's exhausted soldiers had held for hours, the relief force dismantled with overwhelming firepower.
 
-Kael said nothing. Ariga said nothing. Neither man acknowledged the transmission that had never been a shelter report at all.
+The remaining mutated animals broke.
 
-The Sub-Prime continued, louder now, addressing the war-torn line:
+Some fled into the forest. Others were cut down before they could escape. The quadruped platforms chased the largest survivors beyond the clearing while TPV squads swept the perimeter with pulse rifles.
 
-"All displaced civilians will be evacuated to the Citadel immediately. We're securing this shelter and rolling it back into active service."
+By 12:30 on October 16, the gunfire stopped.
 
-He paused, and looked at the young man with the spear standing at the center of the barricades.
+Smoke drifted over the broken ground. Burned carcasses and shattered trees marked where the Juggernauts had fired. The clearing, once filled with howls and snarls, fell silent except for the low hum of cooling repulsors.
 
-"Stand down, civilian. Your work here is done."
+Kael stood at the barricade, spear planted in the ground, barely keeping himself upright.
 
----
-
-Then the horizon opened.
-
-A low, rising howl shook the morning air—not a Beast, but turbines. Mag-lev repulsors. A formation of shapes descending through the grey haze at impossible speed.
-
-The Leviathans came first.
-
-Twenty of them. Omni-Transit "Leviathan" cruisers, their armored hulls scarred black with boarding-action paint, moving in a tight echelon like a herd of iron behemoths sweeping over the rooftops. City buses that had been repurposed into war transports—electrified plating humming, hatches open, soldiers silhouetted in every doorway.
-
-Behind them, the heaviest of them all.
-
-Five TPV "Juggernaut" Strike-Cruisers.
-
-Fortresses made to hover. Massive slabs of dark overlapping armor, roof-mounted twin-plasma cannons angled forward, dropping through the dawn in a staggered wall of shadow. Localized gravity fields crushed rubble beneath their hulls as they came to rest, and the ground itself seemed to groan under their weight.
-
-The dome's defenders stared up, weapons forgotten.
-
-"Those are... ours," Ariga whispered.
-
-Hatches hissed open. TPV soldiers poured out in full exoskeleton combat suits—nearly a hundred of them—broad-shouldered, heavy-plated, rifles raised as they fanned into the clearing. Behind them, SDD general units disembarked from the Leviathans, dispatching medical teams and supply crates before the repulsors had fully settled.
-
-Ninety-four combat troops from the Juggernauts.
-
-Forty SDD general personnel from the Leviathans.
-
-A relief force out of the Kyoto Black Citadel, moving with the calm, mechanical precision of an institution that had manufactured war for generations.
+Cherry leaned against his leg, breathing hard.
 
 The lead Juggernaut lowered its ramp, and a Sub-Prime in full field plate stepped out, scanning the carnage of the killing ground.
 
-"Captain-Prime Ariga," he called across the clearing. "Kyoto received your shelter's status report. Consider this your resupply."
+"Captain-Prime Ariga," he called across the clearing. "Kyoto received your shelter's status report. Consider this your relief."
 
-Ariga turned to look at Kael.
+Ariga looked at Kael.
 
 Kael said nothing. Ariga said nothing. Neither man acknowledged the transmission that had never been a shelter report at all.
 
